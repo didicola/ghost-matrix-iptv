@@ -1,0 +1,137 @@
+name: Ghost Matrix Robot
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  robot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Run Ghost Matrix Robot
+        run: |
+          python3 -c "
+          import hashlib, subprocess, json
+          
+          SOURCES = [
+              'https://iptv-org.github.io/iptv/categories/entertainment.m3u',
+              'https://iptv-org.github.io/iptv/categories/movies.m3u',
+              'https://iptv-org.github.io/iptv/categories/sports.m3u',
+              'https://iptv-org.github.io/iptv/categories/news.m3u',
+              'https://iptv-org.github.io/iptv/categories/kids.m3u',
+              'https://iptv-org.github.io/iptv/categories/music.m3u',
+              'https://iptv-org.github.io/iptv/categories/documentary.m3u',
+              'https://iptv-org.github.io/iptv/countries/us.m3u',
+              'https://iptv-org.github.io/iptv/countries/gb.m3u',
+              'https://iptv-org.github.io/iptv/countries/de.m3u',
+              'https://iptv-org.github.io/iptv/countries/fr.m3u',
+              'https://iptv-org.github.io/iptv/countries/es.m3u',
+              'https://iptv-org.github.io/iptv/countries/it.m3u',
+              'https://iptv-org.github.io/iptv/countries/br.m3u',
+              'https://iptv-org.github.io/iptv/countries/jp.m3u',
+              'https://iptv-org.github.io/iptv/countries/kr.m3u',
+              'https://iptv-org.github.io/iptv/countries/cn.m3u',
+              'https://iptv-org.github.io/iptv/countries/in.m3u',
+              'https://iptv-org.github.io/iptv/countries/ru.m3u',
+              'https://iptv-org.github.io/iptv/countries/au.m3u',
+          ]
+          
+          def fetch(url):
+              try:
+                  import urllib.request
+                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/1.0'})
+                  resp = urllib.request.urlopen(req, timeout=15)
+                  return resp.read().decode('utf-8', errors='ignore')
+              except:
+                  return None
+          
+          def test_stream(url):
+              try:
+                  import urllib.request
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  resp = urllib.request.urlopen(req, timeout=8)
+                  data = resp.read(2048)
+                  return len(data) > 100
+              except:
+                  return False
+          
+          print('Scanning worldwide...')
+          all_channels = {}
+          for src in SOURCES:
+              data = fetch(src)
+              if not data: continue
+              lines = data.split('\\n')
+              i = 0
+              while i < len(lines):
+                  if lines[i].startswith('#EXTINF'):
+                      extinf = lines[i]
+                      url = lines[i+1] if i+1 < len(lines) else ''
+                      if url.startswith('http'):
+                          ch_id = hashlib.md5(url.encode()).hexdigest()[:12]
+                          name = extinf.split(',')[-1] if ',' in extinf else 'Unknown'
+                          group = 'General'
+                          if 'group-title=\"' in extinf:
+                              s = extinf.find('group-title=\"') + 13
+                              e = extinf.find('\"', s)
+                              group = extinf[s:e]
+                          all_channels[ch_id] = {'name': name, 'group': group, 'url': url, 'extinf': extinf}
+                      i += 2
+                  else:
+                      i += 1
+          
+          print(f'Found {len(all_channels)} channels')
+          print('Testing channels...')
+          
+          working = {}
+          failed = {}
+          for ch_id, ch in all_channels.items():
+              if test_stream(ch['url']):
+                  working[ch_id] = ch
+              else:
+                  failed[ch_id] = ch
+          
+          print(f'Working: {len(working)}, Failed: {len(failed)}')
+          
+          # Fix failed channels
+          fixed = 0
+          for ch_id, ch in failed.items():
+              name = ch['name'].lower()
+              for alt_id, alt in all_channels.items():
+                  if alt_id == ch_id: continue
+                  alt_name = alt['name'].lower()
+                  if name in alt_name or alt_name in name:
+                      if test_stream(alt['url']):
+                          working[alt_id] = alt
+                          fixed += 1
+                          break
+          
+          print(f'Fixed: {fixed} channels')
+          
+          # Generate M3U
+          content = '#EXTM3U\\n'
+          groups = {}
+          for ch_id, ch in working.items():
+              g = ch.get('group', 'General')
+              if g not in groups: groups[g] = []
+              groups[g].append(ch)
+          
+          for g in sorted(groups.keys()):
+              for ch in sorted(groups[g], key=lambda x: x['name']):
+                  content += ch['extinf'] + '\\n' + ch['url'] + '\\n'
+          
+          with open('iptv.m3u', 'w') as f:
+              f.write(content)
+          
+          print(f'Generated {len(working)} working channels')
+          "
+      
+      - name: Commit and push
+        run: |
+          git config user.name "Ghost Matrix Robot"
+          git config user.email "robot@ghostmatrix.ai"
+          git add iptv.m3u
+          git diff --cached --quiet || git commit -m "Robot update: $(grep -c '^#EXTINF' iptv.m3u) working channels"
+          git push
