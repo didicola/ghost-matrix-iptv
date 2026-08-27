@@ -8,77 +8,97 @@ on:
 jobs:
   robot:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
       
-      - name: Run Ghost Matrix Robot (Full Internet Scan)
+      - name: Run Ghost Matrix Robot (Full Internet + Satellite + P2P Scan)
         run: |
           python3 << 'PYEOF'
           import hashlib
           import urllib.request
+          import json
           from concurrent.futures import ThreadPoolExecutor, as_completed
           
-          # === GHOST MATRIX: AUTO-DISCOVER FULL INTERNET ===
-          # 1. iptv-org master index (all categories, countries, languages)
-          # 2. All iptv-org category playlists
-          # 3. All iptv-org country playlists
-          # 4. All iptv-org language playlists
-          # 5. Extra public M3U indexes from around the web
+          # === GHOST MATRIX: SCAN ENTIRE INTERNET ===
+          # - iptv-org: ALL countries + ALL languages + ALL categories (dynamic)
+          # - Satellite aggregator playlists (all countries)
+          # - P2P / AceStream / community M3U indexes
+          # - Extra public IPTV indexes
           
           BASE = 'https://iptv-org.github.io/iptv'
           
-          # Categories
           CATEGORIES = ['entertainment','movies','series','sports','news','kids',
                         'music','documentary','comedy','animation','educational',
                         'general','lifestyle','travel','game','governmental',
                         'religion','science','technology','weather','auto',
                         'business','crypto','culture','food','gaming','history',
-                        'nature','other']
+                        'nature','other','anime','balkan','book','classic',
+                        'collectibles','cooking','dance','desi','devotional',
+                        'discovery','diy','drama','economics','fashion','films',
+                        'finance','fitness','uk','us','xxx']
           
-          # Top countries by channel count (auto-expandable)
-          COUNTRIES = ['us','uk','ca','au','fr','de','it','es','pt','br','mx','ar',
-                       'ru','ua','tr','in','pk','cn','jp','kr','nl','be','ch','at',
-                       'se','no','dk','fi','pl','cz','ro','gr','hu','bg','hr','rs',
-                       'ae','sa','eg','ma','za','ng','ke','id','th','vn','ph','my',
-                       'tw','hk','sg','il','ir','iq','lb','jo','kw','qa','om','ye',
-                       'tn','dz','ly','gh','et','tz','ug','zw','mz','ao','cl','co',
-                       'pe','ve','ec','uy','py','bo','cr','do','gt','pa','cu','jm',
-                       'sk','si','ee','lv','lt','is','lu','mc','mt','cy','al','mk',
-                       'ba','me','ge','am','az','kz','uz','tm','kg','by','md','gl',
-                       'fo','je','gg','im','ad','sm','va','li','gi','ax','bj','ci',
-                       'sn','cm','cd','cg','mg','mu','rw','bi','so','ss','sd','ly']
-          
-          # Top languages
-          LANGUAGES = ['eng','spa','por','fre','ger','ita','rus','ukr','tur','ara',
-                       'hin','urd','chi','jpn','kor','dut','pol','rum','gre','hun',
-                       'bul','hrv','srp','ces','slv','tha','vie','ind','tam','tel',
-                       'ben','mar','guj','kan','mal','pus','fas','heb','swa','amh',
-                       'yor','ibo','zul','afr','dan','fin','swe','nor','ice','cat',
-                       'baq','glg','gle','lat','est','lav','lit','slk','alb','mac',
-                       'geo','arm','aze','kaz','uzb','tuk','kir','bel','mol','tgl']
-          
-          SOURCES = [f'{BASE}/index.m3u']
-          SOURCES += [f'{BASE}/categories/{c}.m3u' for c in CATEGORIES]
-          SOURCES += [f'{BASE}/countries/{c}.m3u' for c in COUNTRIES]
-          SOURCES += [f'{BASE}/languages/{l}.m3u' for l in LANGUAGES]
-          
-          # Extra public indexes (full internet discovery)
-          EXTRA = [
-              'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u',
-              'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/unsorted.m3u',
-              'https://iptv-org.github.io/epg/guide.xml',  # epg reference
-          ]
-          SOURCES += EXTRA
-          
-          print(f'Ghost Matrix scanning {len(SOURCES)} sources from full internet...')
-          
-          def fetch(url):
+          def fetch(url, timeout=30):
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/2.0'})
-                  resp = urllib.request.urlopen(req, timeout=30)
+                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/3.0'})
+                  resp = urllib.request.urlopen(req, timeout=timeout)
                   return resp.read().decode('utf-8', errors='ignore')
               except:
                   return None
+          
+          # Dynamically fetch ALL countries and languages from iptv-org API
+          print('Fetching full country + language list from iptv-org...')
+          countries = []
+          languages = []
+          api_data = fetch('https://iptv-org.github.io/api/countries.json')
+          if api_data:
+              try:
+                  for c in json.loads(api_data):
+                      if c.get('code'): countries.append(c['code'].lower())
+              except: pass
+          lang_data = fetch('https://iptv-org.github.io/api/languages.json')
+          if lang_data:
+              try:
+                  for l in json.loads(lang_data):
+                      if l.get('code'): languages.append(l['code'].lower())
+              except: pass
+          print(f'Countries: {len(countries)} | Languages: {len(languages)}')
+          
+          SOURCES = [f'{BASE}/index.m3u']
+          SOURCES += [f'{BASE}/categories/{c}.m3u' for c in CATEGORIES]
+          for c in countries:
+              SOURCES.append(f'{BASE}/countries/{c}.m3u')
+          for l in languages:
+              SOURCES.append(f'{BASE}/languages/{l}.m3u')
+          
+          # === SATELLITE + P2P + COMMUNITY AGGREGATORS (entire internet) ===
+          EXTRA = [
+              # Community / aggregator M3Us (satellite + internet)
+              'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u',
+              'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/unsorted.m3u',
+              'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/IPTV/All.m3u',
+              'https://iptv-org.github.io/epg/guide.xml',
+              # Satellite-focused indexes
+              'https://raw.githubusercontent.com/kaotickj/iptv/master/iptv.m3u',
+              'https://raw.githubusercontent.com/vamos-rodar/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/freearhey/iptv/master/index.m3u',
+              # P2P / AceStream community M3U indexes
+              'https://raw.githubusercontent.com/peuj/aceproxy/master/playlist.m3u',
+              'https://raw.githubusercontent.com/Stalker-E2/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/king2369/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/live-tv-channels/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/imdhmd/ipTV/master/playlist.m3u',
+              'https://raw.githubusercontent.com/benmoose39/42-iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/DeepHorizons/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/HtmlBuilder24/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/AshGw/iptv/master/playlist.m3u',
+              'https://raw.githubusercontent.com/yaoxin1213/IPTV/master/playlist.m3u',
+              'https://raw.githubusercontent.com/Phuka97/IPTV/master/playlist.m3u',
+              'https://raw.githubusercontent.com/MrBot2021/iptv/master/playlist.m3u',
+          ]
+          SOURCES += EXTRA
+          
+          print(f'Ghost Matrix scanning {len(SOURCES)} sources from entire internet...')
           
           def parse_m3u(data):
               channels = {}
@@ -88,7 +108,7 @@ jobs:
                   if lines[i].startswith('#EXTINF'):
                       extinf = lines[i]
                       url = lines[i+1].strip() if i+1 < len(lines) else ''
-                      if url.startswith('http'):
+                      if url.startswith('http') or url.startswith('acestream://') or url.startswith('p2p://'):
                           ch_id = hashlib.md5(url.encode()).hexdigest()[:12]
                           name = extinf.split(',')[-1].strip() if ',' in extinf else 'Unknown'
                           group = 'General'
@@ -96,25 +116,14 @@ jobs:
                               s = extinf.find('group-title="') + 13
                               e = extinf.find('"', s)
                               group = extinf[s:e]
-                          tvg = ''
-                          if 'tvg-id="' in extinf:
-                              s = extinf.find('tvg-id="') + 7
-                              e = extinf.find('"', s)
-                              tvg = extinf[s:e]
-                          logo = ''
-                          if 'tvg-logo="' in extinf:
-                              s = extinf.find('tvg-logo="') + 10
-                              e = extinf.find('"', s)
-                              logo = extinf[s:e]
-                          channels[ch_id] = {'name': name, 'group': group, 'url': url,
-                                             'extinf': extinf, 'tvg': tvg, 'logo': logo}
+                          channels[ch_id] = {'name': name, 'group': group, 'url': url, 'extinf': extinf}
                       i += 2
                   else:
                       i += 1
               return channels
           
           all_channels = {}
-          with ThreadPoolExecutor(max_workers=10) as ex:
+          with ThreadPoolExecutor(max_workers=15) as ex:
               futures = {ex.submit(fetch, src): src for src in SOURCES}
               for fut in as_completed(futures):
                   data = fut.result()
@@ -136,7 +145,7 @@ jobs:
               except:
                   return False
           
-          print('Testing all channels in parallel...')
+          print('Testing all channels in parallel (50 threads)...')
           working = {}
           with ThreadPoolExecutor(max_workers=50) as ex:
               futures = {ex.submit(test_stream, ch['url']): cid for cid, ch in all_channels.items()}
@@ -146,12 +155,11 @@ jobs:
                   cid = futures[fut]
                   if fut.result():
                       working[cid] = all_channels[cid]
-                  if done % 1000 == 0:
+                  if done % 2000 == 0:
                       print(f'  tested {done}/{len(all_channels)} -> {len(working)} working')
           
           print(f'Working channels: {len(working)}')
           
-          # Generate M3U grouped + sorted
           groups = {}
           for cid, ch in working.items():
               g = ch.get('group', 'General') or 'General'
