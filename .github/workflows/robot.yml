@@ -161,6 +161,43 @@ jobs:
           print(f'Ghost Matrix generated {count} working channels', flush=True)
           PYEOF
       
+
+      - name: Dedupe (best source per channel)
+        run: |
+          python3 << 'PYEOF'
+          import re
+          src = open('iptv.m3u', errors='ignore').read().split('\n')
+          def host_rank(url):
+              rank = 50
+              if 'dai.google.com' in url: rank = 100
+              elif 'cloudfront.net' in url: rank = 95
+              elif 'samsung' in url: rank = 90
+              elif 'pluto' in url: rank = 85
+              elif 'nagra' in url or 'fubo' in url: rank = 80
+              if url.startswith('https'): rank += 5
+              if '[' in url: rank -= 40
+              return rank
+          chans = {}
+          i = 0
+          while i < len(src):
+              if src[i].startswith('#EXTINF'):
+                  url = src[i+1].strip() if i+1 < len(src) else ''
+                  if url.startswith('http'):
+                      ext = src[i]
+                      name = ext.split(',')[-1].strip().lower()
+                      name = re.sub(r'\s*\([^)]*\)\s*$','',name).strip()
+                      if name not in chans or host_rank(url) > chans[name][2]:
+                          chans[name] = (ext, url, host_rank(url))
+                  i += 2
+              else:
+                  i += 1
+          out = ['#EXTM3U']
+          for name,(ext,url,rank) in sorted(chans.items()):
+              out.append(ext); out.append(url)
+          open('iptv.m3u','w').write('\n'.join(out)+'\n')
+          print(f'Deduped to {len(chans)} channels')
+          PYEOF
+
       - name: Commit and push
         run: |
           git config user.name "Ghost Matrix Robot"
