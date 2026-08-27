@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *'  # Every 6 hours - auto scan full internet
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   robot:
     runs-on: ubuntu-latest
