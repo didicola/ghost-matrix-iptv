@@ -2,8 +2,8 @@ name: Ghost Matrix Robot
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours - auto scan full internet
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,94 +15,57 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Run Ghost Matrix Robot (Full Internet + Satellite + P2P Scan)
+      - name: Quality-First Full Internet Scan
         run: |
           python3 << 'PYEOF'
-          import hashlib
-          import urllib.request
-          import json
+          import hashlib, urllib.request, json
           from concurrent.futures import ThreadPoolExecutor, as_completed
-          
-          # === GHOST MATRIX: SCAN ENTIRE INTERNET ===
-          # - iptv-org: ALL countries + ALL languages + ALL categories (dynamic)
-          # - Satellite aggregator playlists (all countries)
-          # - P2P / AceStream / community M3U indexes
-          # - Extra public IPTV indexes
-          
-          BASE = 'https://iptv-org.github.io/iptv'
-          
-          CATEGORIES = ['entertainment','movies','series','sports','news','kids',
-                        'music','documentary','comedy','animation','educational',
-                        'general','lifestyle','travel','game','governmental',
-                        'religion','science','technology','weather','auto',
-                        'business','crypto','culture','food','gaming','history',
-                        'nature','other','anime','balkan','book','classic',
-                        'collectibles','cooking','dance','desi','devotional',
-                        'discovery','diy','drama','economics','fashion','films',
-                        'finance','fitness','uk','us','xxx']
-          
+
           def fetch(url, timeout=30):
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/3.0'})
-                  resp = urllib.request.urlopen(req, timeout=timeout)
-                  return resp.read().decode('utf-8', errors='ignore')
+                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/4.0'})
+                  return urllib.request.urlopen(req, timeout=timeout).read().decode('utf-8', errors='ignore')
               except:
                   return None
-          
-          # Dynamically fetch ALL countries and languages from iptv-org API
-          print('Fetching full country + language list from iptv-org...')
-          countries = []
-          languages = []
-          api_data = fetch('https://iptv-org.github.io/api/countries.json')
-          if api_data:
-              try:
-                  for c in json.loads(api_data):
-                      if c.get('code'): countries.append(c['code'].lower())
-              except: pass
-          lang_data = fetch('https://iptv-org.github.io/api/languages.json')
-          if lang_data:
-              try:
-                  for l in json.loads(lang_data):
-                      if l.get('code'): languages.append(l['code'].lower())
-              except: pass
-          print(f'Countries: {len(countries)} | Languages: {len(languages)}')
-          
-          SOURCES = [f'{BASE}/index.m3u']
-          SOURCES += [f'{BASE}/categories/{c}.m3u' for c in CATEGORIES]
-          for c in countries:
-              SOURCES.append(f'{BASE}/countries/{c}.m3u')
-          for l in languages:
-              SOURCES.append(f'{BASE}/languages/{l}.m3u')
-          
-          # === SATELLITE + P2P + COMMUNITY AGGREGATORS (entire internet) ===
-          EXTRA = [
-              # Community / aggregator M3Us (satellite + internet)
-              'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u',
-              'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/unsorted.m3u',
-              'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/IPTV/All.m3u',
-              'https://iptv-org.github.io/epg/guide.xml',
-              # Satellite-focused indexes
-              'https://raw.githubusercontent.com/kaotickj/iptv/master/iptv.m3u',
-              'https://raw.githubusercontent.com/vamos-rodar/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/freearhey/iptv/master/index.m3u',
-              # P2P / AceStream community M3U indexes
-              'https://raw.githubusercontent.com/peuj/aceproxy/master/playlist.m3u',
-              'https://raw.githubusercontent.com/Stalker-E2/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/king2369/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/live-tv-channels/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/imdhmd/ipTV/master/playlist.m3u',
-              'https://raw.githubusercontent.com/benmoose39/42-iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/DeepHorizons/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/HtmlBuilder24/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/AshGw/iptv/master/playlist.m3u',
-              'https://raw.githubusercontent.com/yaoxin1213/IPTV/master/playlist.m3u',
-              'https://raw.githubusercontent.com/Phuka97/IPTV/master/playlist.m3u',
-              'https://raw.githubusercontent.com/MrBot2021/iptv/master/playlist.m3u',
+
+          # ============ QUALITY SOURCES (official FAST channels) ============
+          # These are legal, ad-supported, reliable: Pluto, Samsung TV Plus,
+          # Xumo, LG Channels, Redbox, Roku, Vizio, Free-TV curated list.
+          QUALITY_SOURCES = [
+              'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8',
+              'https://www.apsattv.com/xumo.m3u',
+              'https://apsattv.com/ssungusa.m3u',
+              'https://www.apsattv.com/lg.m3u',
+              'https://www.apsattv.com/rok.m3u',
+              'https://www.apsattv.com/redbox.m3u',
+              'https://www.apsattv.com/distro.m3u',
+              'https://www.apsattv.com/xiaomi.m3u',
+              'https://www.apsattv.com/tablo.m3u',
+              'https://www.apsattv.com/vizio.m3u',
+              'https://www.apsattv.com/localnow.m3u',
+              'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u',
+              'https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u',
           ]
-          SOURCES += EXTRA
-          
-          print(f'Ghost Matrix scanning {len(SOURCES)} sources from entire internet...')
-          
+
+          # Secondary: iptv-org (tested, no geo-blocked)
+          BASE = 'https://iptv-org.github.io/iptv'
+          def get_codes(url):
+              d = fetch(url)
+              if not d: return []
+              try:
+                  return [c.get('code','').lower() for c in json.loads(d) if c.get('code')]
+              except:
+                  return []
+
+          countries = get_codes('https://iptv-org.github.io/api/countries.json')
+          IO_SOURCES = [f'{BASE}/index.m3u']
+          IO_SOURCES += [f'{BASE}/categories/c.m3u' for c in
+                         ['entertainment','movies','series','sports','news','kids','music','documentary']]
+          IO_SOURCES += [f'{BASE}/countries/{c}.m3u' for c in countries]
+
+          ALL_SOURCES = QUALITY_SOURCES + IO_SOURCES
+          print(f'Scanning {len(ALL_SOURCES)} sources (quality-first)', flush=True)
+
           def parse_m3u(data):
               channels = {}
               lines = data.split('\n')
@@ -111,46 +74,49 @@ jobs:
                   if lines[i].startswith('#EXTINF'):
                       extinf = lines[i]
                       url = lines[i+1].strip() if i+1 < len(lines) else ''
-                      if url.startswith('http') or url.startswith('acestream://') or url.startswith('p2p://'):
+                      if url.startswith('http'):
+                          # SKIP geo-blocked channels (useless internationally)
+                          if '[Geo-blocked]' in extinf or 'geo-block' in extinf.lower():
+                              i += 2
+                              continue
                           ch_id = hashlib.md5(url.encode()).hexdigest()[:12]
-                          name = extinf.split(',')[-1].strip() if ',' in extinf else 'Unknown'
+                          name = extinf.split(',')[-1].strip()
                           group = 'General'
                           if 'group-title="' in extinf:
                               s = extinf.find('group-title="') + 13
                               e = extinf.find('"', s)
                               group = extinf[s:e]
-                          channels[ch_id] = {'name': name, 'group': group, 'url': url, 'extinf': extinf}
+                          channels[ch_id] = {'name': name, 'group': group, 'url': url}
                       i += 2
                   else:
                       i += 1
               return channels
-          
+
           all_channels = {}
-          with ThreadPoolExecutor(max_workers=15) as ex:
-              futures = {ex.submit(fetch, src): src for src in SOURCES}
+          with ThreadPoolExecutor(max_workers=12) as ex:
+              futures = {ex.submit(fetch, src): src for src in ALL_SOURCES}
               for fut in as_completed(futures):
                   data = fut.result()
                   if data:
                       try:
-                          chs = parse_m3u(data)
-                          all_channels.update(chs)
+                          all_channels.update(parse_m3u(data))
                       except:
                           pass
-          
-          print(f'Discovered {len(all_channels)} unique channels across internet')
-          
+
+          print(f'Discovered {len(all_channels)} unique channels', flush=True)
+
           def test_stream(url):
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Kodi/21.2)'})
-                  resp = urllib.request.urlopen(req, timeout=8)
-                  data = resp.read(4096)
-                  return len(data) > 100
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  data = urllib.request.urlopen(req, timeout=6).read(4096)
+                  return len(data) > 50
               except:
                   return False
-          
-          print('Testing all channels in parallel (50 threads)...')
+
+          print('Testing all channels (parallel)...', flush=True)
           working = {}
-          with ThreadPoolExecutor(max_workers=50) as ex:
+          total = len(all_channels)
+          with ThreadPoolExecutor(max_workers=80) as ex:
               futures = {ex.submit(test_stream, ch['url']): cid for cid, ch in all_channels.items()}
               done = 0
               for fut in as_completed(futures):
@@ -158,25 +124,41 @@ jobs:
                   cid = futures[fut]
                   if fut.result():
                       working[cid] = all_channels[cid]
-                  if done % 2000 == 0:
-                      print(f'  tested {done}/{len(all_channels)} -> {len(working)} working')
-          
-          print(f'Working channels: {len(working)}')
-          
+                  if done % 3000 == 0:
+                      print(f'  {done}/{total} tested -> {len(working)} working', flush=True)
+
+          print(f'WORKING: {len(working)}/{total}', flush=True)
+
+          # Prioritize quality sources at top (official FAST channels)
+          def is_quality(url):
+              q = ['fe.tring.al','apsattv','dai.google.com','cloudfront.net','nagra','fubo','pluto',
+                   'iptv-org','fanmingming','hikvision','newtv','youtube.com/live','tele.cdn']
+              return any(x in url for x in q)
+
           groups = {}
           for cid, ch in working.items():
               g = ch.get('group', 'General') or 'General'
               groups.setdefault(g, []).append(ch)
-          
+
           content = '#EXTM3U\n'
-          for g in sorted(groups.keys()):
-              for ch in sorted(groups[g], key=lambda x: x['name'].lower()):
-                  content += ch['extinf'] + '\n' + ch['url'] + '\n'
-          
+          count = 0
+          # Quality-first ordering: put Official FAST + curated channels first
+          ordered = sorted(groups.keys(), key=lambda g: 0 if is_quality(groups[g][0]['url']) else 1)
+          for g in ordered:
+              chans = sorted(groups[g], key=lambda x: x['name'].lower())
+              # Prefer the best single stream per channel name
+              seen = {}
+              for ch in chans:
+                  key = ch['name'].lower()
+                  seen.setdefault(key, ch)
+              for name, ch in sorted(seen.items()):
+                  content += f'#EXTINF:-1 group-title="{g}",{ch["name"]}\n{ch["url"]}\n'
+                  count += 1
+
           with open('iptv.m3u', 'w') as f:
               f.write(content)
-          
-          print(f'Ghost Matrix generated {len(working)} working channels')
+
+          print(f'Ghost Matrix generated {count} working channels', flush=True)
           PYEOF
       
       - name: Commit and push
@@ -186,7 +168,6 @@ jobs:
           git add iptv.m3u
           git diff --cached --quiet || git commit -m "Robot update: $(grep -c '^#EXTINF' iptv.m3u) working channels"
           git push
-          # Publish a moving tag 'live' so jsDelivr @live always serves newest
           git tag -f live
           git push -f origin live
-          echo "Published tag: live"
+          echo "Published @live"
