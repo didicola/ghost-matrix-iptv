@@ -2,7 +2,7 @@ name: Ghost Matrix Robot
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *'  # Every 6 hours - auto scan full internet
   workflow_dispatch:  # Manual trigger
 
 jobs:
@@ -11,93 +11,161 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Run Ghost Matrix Robot
+      - name: Run Ghost Matrix Robot (Full Internet Scan)
         run: |
           python3 << 'PYEOF'
           import hashlib
           import urllib.request
-          from concurrent.futures import ThreadPoolExecutor
+          from concurrent.futures import ThreadPoolExecutor, as_completed
           
-          # iptv-org sources
-          SOURCES = [
-              'https://iptv-org.github.io/iptv/index.m3u',
-              'https://iptv-org.github.io/iptv/categories/entertainment.m3u',
-              'https://iptv-org.github.io/iptv/categories/movies.m3u',
-              'https://iptv-org.github.io/iptv/categories/series.m3u',
-              'https://iptv-org.github.io/iptv/categories/sports.m3u',
-              'https://iptv-org.github.io/iptv/categories/news.m3u',
-              'https://iptv-org.github.io/iptv/categories/kids.m3u',
-              'https://iptv-org.github.io/iptv/categories/music.m3u',
-              'https://iptv-org.github.io/iptv/categories/documentary.m3u',
+          # === GHOST MATRIX: AUTO-DISCOVER FULL INTERNET ===
+          # 1. iptv-org master index (all categories, countries, languages)
+          # 2. All iptv-org category playlists
+          # 3. All iptv-org country playlists
+          # 4. All iptv-org language playlists
+          # 5. Extra public M3U indexes from around the web
+          
+          BASE = 'https://iptv-org.github.io/iptv'
+          
+          # Categories
+          CATEGORIES = ['entertainment','movies','series','sports','news','kids',
+                        'music','documentary','comedy','animation','educational',
+                        'general','lifestyle','travel','game','governmental',
+                        'religion','science','technology','weather','auto',
+                        'business','crypto','culture','food','gaming','history',
+                        'nature','other']
+          
+          # Top countries by channel count (auto-expandable)
+          COUNTRIES = ['us','uk','ca','au','fr','de','it','es','pt','br','mx','ar',
+                       'ru','ua','tr','in','pk','cn','jp','kr','nl','be','ch','at',
+                       'se','no','dk','fi','pl','cz','ro','gr','hu','bg','hr','rs',
+                       'ae','sa','eg','ma','za','ng','ke','id','th','vn','ph','my',
+                       'tw','hk','sg','il','ir','iq','lb','jo','kw','qa','om','ye',
+                       'tn','dz','ly','gh','et','tz','ug','zw','mz','ao','cl','co',
+                       'pe','ve','ec','uy','py','bo','cr','do','gt','pa','cu','jm',
+                       'sk','si','ee','lv','lt','is','lu','mc','mt','cy','al','mk',
+                       'ba','me','ge','am','az','kz','uz','tm','kg','by','md','gl',
+                       'fo','je','gg','im','ad','sm','va','li','gi','ax','bj','ci',
+                       'sn','cm','cd','cg','mg','mu','rw','bi','so','ss','sd','ly']
+          
+          # Top languages
+          LANGUAGES = ['eng','spa','por','fre','ger','ita','rus','ukr','tur','ara',
+                       'hin','urd','chi','jpn','kor','dut','pol','rum','gre','hun',
+                       'bul','hrv','srp','ces','slv','tha','vie','ind','tam','tel',
+                       'ben','mar','guj','kan','mal','pus','fas','heb','swa','amh',
+                       'yor','ibo','zul','afr','dan','fin','swe','nor','ice','cat',
+                       'baq','glg','gle','lat','est','lav','lit','slk','alb','mac',
+                       'geo','arm','aze','kaz','uzb','tuk','kir','bel','mol','tgl']
+          
+          SOURCES = [f'{BASE}/index.m3u']
+          SOURCES += [f'{BASE}/categories/{c}.m3u' for c in CATEGORIES]
+          SOURCES += [f'{BASE}/countries/{c}.m3u' for c in COUNTRIES]
+          SOURCES += [f'{BASE}/languages/{l}.m3u' for l in LANGUAGES]
+          
+          # Extra public indexes (full internet discovery)
+          EXTRA = [
+              'https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u',
+              'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/unsorted.m3u',
+              'https://iptv-org.github.io/epg/guide.xml',  # epg reference
           ]
+          SOURCES += EXTRA
+          
+          print(f'Ghost Matrix scanning {len(SOURCES)} sources from full internet...')
           
           def fetch(url):
               try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/1.0'})
+                  req = urllib.request.Request(url, headers={'User-Agent': 'GhostMatrix/2.0'})
                   resp = urllib.request.urlopen(req, timeout=30)
                   return resp.read().decode('utf-8', errors='ignore')
               except:
                   return None
           
-          def test_stream(url):
-              try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                  resp = urllib.request.urlopen(req, timeout=8)
-                  data = resp.read(2048)
-                  return len(data) > 100
-              except:
-                  return False
-          
-          print('Scanning sources...')
-          all_channels = {}
-          for src in SOURCES:
-              data = fetch(src)
-              if not data: continue
+          def parse_m3u(data):
+              channels = {}
               lines = data.split('\n')
               i = 0
               while i < len(lines):
                   if lines[i].startswith('#EXTINF'):
                       extinf = lines[i]
-                      url = lines[i+1] if i+1 < len(lines) else ''
+                      url = lines[i+1].strip() if i+1 < len(lines) else ''
                       if url.startswith('http'):
                           ch_id = hashlib.md5(url.encode()).hexdigest()[:12]
-                          name = extinf.split(',')[-1] if ',' in extinf else 'Unknown'
+                          name = extinf.split(',')[-1].strip() if ',' in extinf else 'Unknown'
                           group = 'General'
                           if 'group-title="' in extinf:
                               s = extinf.find('group-title="') + 13
                               e = extinf.find('"', s)
                               group = extinf[s:e]
-                          all_channels[ch_id] = {'name': name, 'group': group, 'url': url, 'extinf': extinf}
+                          tvg = ''
+                          if 'tvg-id="' in extinf:
+                              s = extinf.find('tvg-id="') + 7
+                              e = extinf.find('"', s)
+                              tvg = extinf[s:e]
+                          logo = ''
+                          if 'tvg-logo="' in extinf:
+                              s = extinf.find('tvg-logo="') + 10
+                              e = extinf.find('"', s)
+                              logo = extinf[s:e]
+                          channels[ch_id] = {'name': name, 'group': group, 'url': url,
+                                             'extinf': extinf, 'tvg': tvg, 'logo': logo}
                       i += 2
                   else:
                       i += 1
+              return channels
           
-          print(f'Found {len(all_channels)} channels')
-          print('Testing channels...')
+          all_channels = {}
+          with ThreadPoolExecutor(max_workers=10) as ex:
+              futures = {ex.submit(fetch, src): src for src in SOURCES}
+              for fut in as_completed(futures):
+                  data = fut.result()
+                  if data:
+                      try:
+                          chs = parse_m3u(data)
+                          all_channels.update(chs)
+                      except:
+                          pass
           
+          print(f'Discovered {len(all_channels)} unique channels across internet')
+          
+          def test_stream(url):
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Kodi/21.2)'})
+                  resp = urllib.request.urlopen(req, timeout=8)
+                  data = resp.read(4096)
+                  return len(data) > 100
+              except:
+                  return False
+          
+          print('Testing all channels in parallel...')
           working = {}
-          for ch_id, ch in all_channels.items():
-              if test_stream(ch['url']):
-                  working[ch_id] = ch
+          with ThreadPoolExecutor(max_workers=50) as ex:
+              futures = {ex.submit(test_stream, ch['url']): cid for cid, ch in all_channels.items()}
+              done = 0
+              for fut in as_completed(futures):
+                  done += 1
+                  cid = futures[fut]
+                  if fut.result():
+                      working[cid] = all_channels[cid]
+                  if done % 1000 == 0:
+                      print(f'  tested {done}/{len(all_channels)} -> {len(working)} working')
           
-          print(f'Working: {len(working)}')
+          print(f'Working channels: {len(working)}')
           
-          # Generate M3U
-          content = '#EXTM3U\n'
+          # Generate M3U grouped + sorted
           groups = {}
-          for ch_id, ch in working.items():
-              g = ch.get('group', 'General')
-              if g not in groups: groups[g] = []
-              groups[g].append(ch)
+          for cid, ch in working.items():
+              g = ch.get('group', 'General') or 'General'
+              groups.setdefault(g, []).append(ch)
           
+          content = '#EXTM3U\n'
           for g in sorted(groups.keys()):
-              for ch in sorted(groups[g], key=lambda x: x['name']):
+              for ch in sorted(groups[g], key=lambda x: x['name'].lower()):
                   content += ch['extinf'] + '\n' + ch['url'] + '\n'
           
           with open('iptv.m3u', 'w') as f:
               f.write(content)
           
-          print(f'Generated {len(working)} working channels')
+          print(f'Ghost Matrix generated {len(working)} working channels')
           PYEOF
       
       - name: Commit and push
