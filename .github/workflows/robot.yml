@@ -186,3 +186,7 @@ jobs:
           git add iptv.m3u
           git diff --cached --quiet || git commit -m "Robot update: $(grep -c '^#EXTINF' iptv.m3u) working channels"
           git push
+          # Publish a moving tag 'live' so jsDelivr @live always serves newest
+          git tag -f live
+          git push -f origin live
+          echo "Published tag: live"
