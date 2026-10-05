@@ -111,8 +111,6 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951518/hls/master.m3u8?ads.xumo_channelId=99951518&ads.xumo_streamId=99951518&ads.channelId=99951518&ads.channelName=ABCNews2020_us&ads.caid=ABCNews2020&ads.csid=xumo_[PLATFORM]_ABCNews2020_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=4384&ads.xumo_contentName=ABCNews2020&ads.xumo_providerId=4384&ads.xumo_providerName=ABCNews2020&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
 #EXTINF:-1 group-title="Action & Drama",21 Jump Street
 https://jmp2.uk/stvp-USBB320000397
-#EXTINF:-1 group-title="News",22Scope News (1080p)
-https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS",23ABC News
 https://amg01438-amg01438c13-vizio-us-10921.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippskero-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTA3ODczOH0
 #EXTINF:-1 group-title="News;Public",24 Horas (Spain) (720p)
@@ -137,8 +135,6 @@ https://hls.247box.live/hls/stream.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 group-title="News",24Hrs TV (576p)
 http://51.75.127.199:3141/24hrstv/index.m3u8
-#EXTINF:-1 group-title="News",24KZ (576p)
-https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="LOCAL CHANNELS",25 News
 https://amg01438-amg01438c28-vizio-us-10893.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippskxxv-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNDkwNjI3N30
 #EXTINF:-1 group-title="XUMO🇺🇸: Game Shows",25 Words or Less
@@ -281,8 +277,6 @@ https://amg02051-soulpublishing-amg02051c18-lg-cl-553.playouts.now.amagi.tv/play
 https://amg02051-soulpublishing-amg02051c18-lg-mx-559.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgmx/playlist.m3u8
 #EXTINF:-1 group-title="General",5 Minute Crafts Spanish (PE) Alt
 https://amg02051-soulpublishing-amg02051c18-lg-pe-560.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgpe/playlist.m3u8
-#EXTINF:-1 group-title="General",50 Canale
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Action & Drama",50 Cent Action
 https://dbrb49pjoymg4.cloudfront.net/10001/99951439/hls/playlist.m3u8?ads.xumo_channelId=99951439&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Lionsgate50CentAction&ads.csid=xumo_[PLATFORM]_Lionsgate50CentAction_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4256&ads.xumo_contentName=Lionsgate50CentAction&ads.xumo_providerId=4256&ads.xumo_providerName=Lionsgate50CentAction&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951439&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="General",555 (720p)
@@ -501,6 +495,8 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 group-title="General",ABC KOAT-TV (720p)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
+#EXTINF:-1 group-title="General",ABC KRGV-TV
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",ABC KSTP-TV (1080p)
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",ABC KXXV (720p)
@@ -511,8 +507,6 @@ https://c.mjh.nz/abc-news.m3u8
 https://www.youtube.com/@abcnewsaustralia/live
 #EXTINF:-1 group-title="News",ABC News (Australia) (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1 group-title="News",ABC News (India) (576p)
-http://51.75.127.199:3141/abcnews/index.m3u8
 #EXTINF:-1 group-title="Albania",ABC News Albania Ⓣ
 https://www.twitch.tv/abcnewsal
 #EXTINF:-1 group-title="XUMO🇺🇸: News",ABC News Live
@@ -537,8 +531,6 @@ https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
 #EXTINF:-1 group-title="News",ABC News Live 9 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
-#EXTINF:-1 group-title="General",ABC Teleshow (720p)
-https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 group-title="General",ABC TV (720p)
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 group-title="General",ABC TV ACT (720p)
@@ -587,8 +579,6 @@ https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u
 https://amg01438-amg01438c7-vizio-us-10930.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsknxv-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTE1MDQ0MH0
 #EXTINF:-1 group-title="Music",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-#EXTINF:-1 group-title="Entertainment",AbejalesTV (720p)
-https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 #EXTINF:-1 group-title="Religious",ABHP TV (480p)
 https://vietprocast.app/hls/abhp/index.m3u8
 #EXTINF:-1 group-title="General",ABN (720p)
@@ -791,6 +781,8 @@ http://45.162.64.114/AGROMAIS/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Aguacate TV (1080p)
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 group-title="General",Aguila TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Ahlulbayt TV (1080p)
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 #EXTINF:-1 group-title="General",Ahora TV (1080p) [Not 24/7]
@@ -913,6 +905,8 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 group-title="Undefined",Al Qamar TV (1080p)
 https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1 group-title="General",Al Rasheed TV (1080p) [Not 24/7]
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 group-title="General",Al Rayyan Old TV (1080p)
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="General",Al Rayyan TV (1080p)
@@ -1085,8 +1079,6 @@ https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",Almahriah TV (576p)
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 group-title="General",Almaty TV (576p)
-https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Reality Competition",Alone By History
 https://jmp2.uk/stvp-USBD27000156I
 #EXTINF:-1 group-title="Italy",Alpauno
@@ -1095,6 +1087,8 @@ https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 group-title="Religious",Alpha Digital (480p)
 https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 group-title="General",Alpha TV (1080p)
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alquran (1080p)
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 group-title="General",Alsacias Television (720p)
@@ -1167,6 +1161,8 @@ https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/p
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 #EXTINF:-1 group-title="General",America Estereo Quito (1080p)
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 group-title="General",America Estereo Tulcan (614p)
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment;General",America TeVe (1080p)
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 group-title="COMEDY",America's Funniest Home Videos
@@ -1365,8 +1361,8 @@ https://jmp2.uk/stvp-USBC600018CF
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Antofagasta TV (1080p)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",AP TV
-https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Legislative",ANTV (Venezuela) (720p)
+http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:-1 group-title="News",APA Tv (1080p)
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 group-title="Business;Culture;Lifestyle",apart TV (1080p)
@@ -1539,8 +1535,6 @@ https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
 https://www.youtube.com/@AsianetSuvarnaNews/live
 #EXTINF:-1 group-title="Undefined",Asil TV (576p)
 https://live.asil.tv/asiltv/index.m3u8
-#EXTINF:-1 group-title="News",Asom Live 24 (576p)
-https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 group-title="Religious",Asomavision (614p)
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 group-title="Lifestyle",Aspire TV Life (1080p)
@@ -1573,8 +1567,6 @@ https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 group-title="Undefined",Atacama TV
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Business",Atameken Business (576p)
-https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Kids",Atfal & Mawaheb TV (1080p)
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 group-title="Sports",ATG Live (720p)
@@ -1585,8 +1577,6 @@ https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS",Atlanta News First
 https://amg00312-amg00312c28-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c28-amgplt0022/playlist.m3u8?us_privacy=%7bUSPRIVACY%7d&ic=%7bIC%7d&is_lat=%7bIS_LAT%7d&schain=%7bSCHAIN%7d&ad_pos=%7bAD_POS%7d&dnt=%7bDNT%7d&iu=%7bIU%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&h=%7bHEIGHT%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&device_make=%7bDEVICE_MAKE%7d&did=%7bADID%7d&lmt=%7bLMT%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&network_name=%7bNETWORK_NAME%7d&tv_ad_id=%7bTV_AD_ID%7d&app_name=%7bAPP_NAME%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&coppa=0&gpp=%7bGPP%7d&idtype=%7bIDTYPE%7d&prodq=%7bPRODQ%7d&w=%7bWIDTH%7d&channel_name=%7bCHANNEL_NAME%7d&gpp_sid=%7bGPP_SID%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjExOH0
-#EXTINF:-1 group-title="General",Atlantis Radio TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 group-title="Entertainment",ATM Rozrywka REWORK (720p)
@@ -1643,6 +1633,8 @@ https://canal.aupurtv.co/live/stream/index.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 group-title="Culture",Aurora Arte (480p)
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="Business",Ausbiz TV (720p) [Not 24/7]
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 group-title="General",Austral TV (1080p)
@@ -1655,8 +1647,6 @@ https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 group-title="Mongolia",Auto TV (720p)
 https://cdn4.skygo.mn/live/disk1/AutoTV/HLSv3-FTA/AutoTV.m3u8
-#EXTINF:-1 group-title="General",Autonoma TV
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 #EXTINF:-1 group-title="VOD Italy",Autostop per il cielo – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/638f286445264d00084ec6dc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Family",AVA Family
@@ -1709,6 +1699,8 @@ http://125.227.210.55:4050/VideoInput/play.ts
 http://185.227.34.179:8080/axn-black/index.m3u8
 #EXTINF:-1 group-title="Movies",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 group-title="Movies",AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 group-title="Movies",AXN Latin America South (1080p)
 http://181.78.12.119:16123/play/ch46/index.m3u8
 #EXTINF:-1 group-title="Entertainment",AXN White Poland (576p)
@@ -1733,6 +1725,8 @@ http://200.115.120.1:8000/play/ca020/index.m3u8
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 group-title="General",Az TV (1080p)
 https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="General",AZA TV HD (1080p)
+https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
 #EXTINF:-1 group-title="Music",Azahares Radiovisual Multimedia (720p)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Azan TV
@@ -1803,10 +1797,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Series",Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 group-title="Kids",Balapan (576p)
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Kids",Balapan HD (1080p)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Balapan International (1080p)
+https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 group-title="Undefined",Balaton TV (432p)
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 group-title="Culture",Balchi TV
@@ -1831,6 +1825,8 @@ https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 group-title="Mongolia",Bantan
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
+#EXTINF:-1 group-title="Undefined",Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 group-title="Series",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
 #EXTINF:-1 group-title="Series",Bar Rescue CA
@@ -1857,6 +1853,8 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885595/hls/master.m3u8?ads.xumo_ch
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="Argentina",Barricada TV
 https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live
+#EXTINF:-1 group-title="General",Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Kids",batteryPOP
 https://jmp2.uk/stvp-USBD3300012VX
 #EXTINF:-1 group-title="Movies;Series",Battlestar Galactica
@@ -1913,8 +1911,10 @@ http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 group-title="News",BBC Persian (1080p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 group-title="UK",BBC Radio 2
-https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
+#EXTINF:-1 group-title="UK",BBC Radio 1
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
+#EXTINF:-1 group-title="UK",BBC Radio 1Xtra
+https://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
 #EXTINF:-1 group-title="UK",BBC Radio 3
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
 #EXTINF:-1 group-title="UK",BBC Radio 4
@@ -1995,10 +1995,14 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Belarus-1 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Belarus-2 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",Belarus-24 (576p)
 http://ott-7.sevstar.net/belarus24/index.m3u8
 #EXTINF:-1 group-title="News",Belarus-24 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Culture",Belarus-3 HD (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Belarus-4 Gomel
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 group-title="General",Belarus-4 Vitebsk (1080p)
@@ -2153,8 +2157,6 @@ https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
 https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
 #EXTINF:-1 group-title="Entertainment",Big Magic (576p)
 http://51.75.127.199:3141/bigmagic/index.m3u8
-#EXTINF:-1 group-title="Undefined",Big Planet (576p)
-https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Undefined",Big Ten Network (720p)
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 group-title="Undefined",Big Time Plus (1080p)
@@ -2291,8 +2293,6 @@ https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 group-title="Cooking;Lifestyle",Boligkob i blinde
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
-#EXTINF:-1 group-title="General",Bolivia TV (1080p)
-http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Movies",Bollygold (1080p)
 https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 group-title="Classic;Movies",Bollywood Film
@@ -2363,6 +2363,8 @@ https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 group-title="Undefined",BR Fernsehen Sud (1080p)
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="News",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 group-title="General",Brat TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-bratttv-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Nature, History & Science",Brave Wilderness
@@ -2437,12 +2439,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 group-title="Music",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 group-title="General",BTB (1080p)
-https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
-#EXTINF:-1 group-title="General",BTB 2 (1080p)
-https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
-#EXTINF:-1 group-title="General",BTB 3 (1080p)
-https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:-1 group-title="Documentary;News",BTB Info (1080p)
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 #EXTINF:-1 group-title="General",BTN TV (Rwanda)
@@ -2481,6 +2477,8 @@ https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8
 https://www.youtube.com/@Bulshotv/live
 #EXTINF:-1 group-title="General",BUM Television (720p) [Not 24/7]
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 group-title="General",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 group-title="Business",Business Rockstars (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
 #EXTINF:-1 group-title="Education",BUTV10 (1080p) [Not 24/7]
@@ -2575,6 +2573,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="Education;Science",Can Tho TV 2 (1080p)
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Can Tho TV 3 (1080p)
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 group-title="General",CAN TV19 (1080p)
 https://cantv.streamguys1.com/cantv/cantv19hls/playlist.m3u8
 #EXTINF:-1 group-title="General",CAN TV21 (1080p)
@@ -2647,8 +2647,6 @@ https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1 group-title="General",Canal 25 Ayacucho (720p)
-https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
 #EXTINF:-1 group-title="News",Canal 26 (Argentina) (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 26 (Mexico) (1080p)
@@ -2657,6 +2655,8 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 group-title="Music",Canal 3 KMK TV (720p)
+https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 3 La Pampa (1080p)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Canal 3 Las Heras (720p)
@@ -2685,8 +2685,6 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal 4 RD (1080p)
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 group-title="Spain",Canal 4 Tenerife
@@ -2793,8 +2791,6 @@ https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 #EXTINF:-1 group-title="Undefined",Canal do Boi (720p)
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 group-title="Undefined",Canal Donana (720p) [Not 24/7]
-https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 group-title="General",Canal Dos (720p)
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 group-title="General",Canal DTV (720p)
@@ -2877,8 +2873,6 @@ https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 group-title="Religious",Canal Telefamilia (360p) [Not 24/7]
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 group-title="General",Canal TRV (576p)
-https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Canal TV Radio Maya TGBA (480p)
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
 #EXTINF:-1 group-title="General",Canal TV3 (720p) [Not 24/7]
@@ -2937,12 +2931,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 group-title="News",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
-#EXTINF:-1 group-title="General",Capital TV HD (1080p)
-https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8
-#EXTINF:-1 group-title="General",Capital TV HD HD
-https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
-#EXTINF:-1 group-title="General",Capricho TV (720p) [Not 24/7]
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 #EXTINF:-1 group-title="Religious",Capuchin TV
 https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
 #EXTINF:-1 group-title="LocalNow🇺🇸: Reality TV",Car Chase
@@ -3005,8 +2993,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626bb07a5
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Latino",Caso Cerrado
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_channelId=99991749&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.csid=xumo_[PLATFORM]_TelemundoScripted_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=es&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2562&ads.xumo_contentName=TelemundoScripted&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.channelId=99991749&ads._fw_ifa_type=[IFA_TYPE]
-#EXTINF:-1 group-title="Italy",Castrovillari Tv
-http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Culture;News",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 group-title="General",Catatumbo TV (406p)
@@ -3087,8 +3073,8 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb674
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
 #EXTINF:-1 group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="LocalNow🇺🇸: News And Opinion",CBS News 24/7
-https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FSid4xiTQTkCT1SLu6rjUSQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
+#EXTINF:-1 group-title="LocalNow🇺🇸: Breaking News",CBS News 24/7
+https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FSid4xiTQTkCT1SLu6rjUSQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080
 #EXTINF:-1 group-title="LocalNow🇺🇸: More Cities",CBS News Baltimore
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FTMUt418sQMeu1QtneYJ9ag%2Fmaster.m3u8&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
 #EXTINF:-1 group-title="LocalNow🇺🇸: More Cities",CBS News Bay Area
@@ -3219,8 +3205,6 @@ https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playl
 http://190.61.90.17:40000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Sports",CDN Deportes (720p) [Not 24/7]
 https://hls.tvabierta.net/hls/036.m3u8
-#EXTINF:-1 group-title="General;Lifestyle;Music;News",CEACOM TV (1080p) [Not 24/7]
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 group-title="Game Shows",Celebrity Name Game
 https://jmp2.uk/stvp-US1900010IY
 #EXTINF:-1 group-title="Undefined",Celebrity Scene TV (720p)
@@ -3325,8 +3309,6 @@ https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="General",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="General",Channel One Eurasia (576p)
-https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Culture",Channel S (Bangladesh)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Channel S (United Kingdom) (576p)
@@ -3353,8 +3335,6 @@ https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8
 https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
 #EXTINF:-1 group-title="Comedy",Chappelle's Show NO
 https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
-#EXTINF:-1 group-title="General",Charapa TV (720p)
-https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 group-title="News",Chardikla Gurbaani TV (1080p)
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Chardikla Time TV (1080p)
@@ -3449,8 +3429,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 group-title="News",Chuxiong News Channel [Not 24/7]
 http://hwapi.yntv.net/ew265l/848y54.m3u8
-#EXTINF:-1 group-title="Entertainment",Cibaena TV (720p)
-https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 group-title="Religious",Cielo TV (1080p)
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 group-title="Culture;Education",Ciftci TV (720p) [Not 24/7]
@@ -3713,10 +3691,10 @@ https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS",Cleveland 19 News
 https://amg00312-amg00312c60-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c60-amgplt0022/playlist.m3u8?is_lat=%7bIS_LAT%7d&url=%7bDOMAIN%7d&did=%7bADID%7d&gpp=%7bGPP%7d&ic=%7bIC%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&ifa_type=%7bIFATYPE%7d&prodq=%7bPRODQ%7d&skip=%7bSKIPPABLE%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&app_store_url=%7bAPP_STORE_URL%7d&device_make=%7bDEVICE_MAKE%7d&us_privacy=%7bUSPRIVACY%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&coppa=0&idtype=%7bIDTYPE%7d&iu=%7bIU%7d&lmt=%7bLMT%7d&tv_ad_id=%7bTV_AD_ID%7d&network_name=%7bNETWORK_NAME%7d&schain=%7bSCHAIN%7d&channel_name=%7bCHANNEL_NAME%7d&h=%7bHEIGHT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&w=%7bWIDTH%7d&ad_pos=%7bAD_POS%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&dnt=%7bDNT%7d&gpp_sid=%7bGPP_SID%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAwMzQxMjEyMH0
-#EXTINF:-1 group-title="Documentary",ClickTV Chile (720p)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 group-title="Education",Cloudflare TV (720p)
 https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 group-title="General",CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 group-title="Undefined",Club TV
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Clubbing TV UK (720p)
@@ -3745,8 +3723,6 @@ https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 #EXTINF:-1 group-title="News",CNA (Albania) (1080p)
 https://live1.mediadesk.al/cnatvlive.m3u8
-#EXTINF:-1 group-title="Religious",CNA (Algeria) (360p) [Not 24/7]
-https://live.creacast.com/cna/stream/playlist.m3u8
 #EXTINF:-1 group-title="News",CNA International (576p)
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 group-title="Documentary",CNA Originals (1080p)
@@ -3769,14 +3745,10 @@ https://cnbc-live.akamaized.net/cnbc/master.m3u8
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="General",CNBC Awaaz (IN) Geo
 https://amg00866-amg00866c2-lg-in-3525.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Business",CNBC Bajar (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="Business",CNBC Europe
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 group-title="Mongolia",CNBC MGL
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 group-title="General",CNBC TV 18 (IN) Geo
-https://amg00866-amg00866c9-lg-in-4409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",CNBC TV 18 Geo
 https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Business",CNBC TV18 (1080p)
@@ -3789,8 +3761,6 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 group-title="Business;Series",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="General",CNC Bugavision (720p)
-https://movil.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 group-title="General",CNC Medellin (1080p)
 http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 group-title="General",CNC Pereira (720p)
@@ -3803,8 +3773,6 @@ https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
 #EXTINF:-1 group-title="News",CNews (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
-#EXTINF:-1 group-title="News",Cnews Bharat (720p)
-https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 group-title="News",CNEWS PRIME (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 group-title="France",CNews Ⓓ
@@ -3857,6 +3825,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8?ads.xumo_c
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="General",CNN News 18 (IN) Geo
 https://amg00866-amg00866c5-lg-in-3520.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="General",CNN News 18 India Geo
+https://amg00866-amg00866c1-xiaomi-in-3511.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: History & Learning",CNN Originals
 https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_[PLATFORM]_WBDCNNOriginals_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951387&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="Portugal",CNN Portugal
@@ -4003,6 +3973,8 @@ https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 https://www.youtube.com/watch?v=x6XVbD7Ln78
 #EXTINF:-1 group-title="Taiwan",Congress Channel 2 Ⓨ
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
+#EXTINF:-1 group-title="General",ConstanzaTV (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
 #EXTINF:-1 group-title="LocalNow🇺🇸: En Espanol",Construcciones Asombrosas
 https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/playlist.m3u8?ads.cdnhost=s10host4.localnow.api.cms.amdvids.com&ads.playbackid=6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB&ads.n1=rule_id&ads.v1=31E67C91-301F-4DA0-997C-55E852CBE4CB-1752176430&ads.n3=qp_content_id&ads.v3=6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB&ads.n4=content_name&ads.v4=Construcciones%20Asombrosas&ads.n21=app_store_url&ads.v21=&ads.n22=app_version&ads.v22=0.0.0&ads.n23=channel_corp&ads.v23=Warner%20Brothers%20Discovery&ads.n24=h&ads.v24=1080&ads.n25=channel_id&ads.v25=6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB&ads.n26=channel_ext_id&ads.v26=&ads.n27=content_custom_3_param&ads.v27=channel&ads.n28=gpp&ads.v28=&ads.n29=url&ads.v29=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n30=channel_rating&ads.v30=TV-PG&ads.n31=dnt&ads.v31=&ads.n32=channel_title&ads.v32=Construcciones%20Asombrosas&ads.n33=did&ads.v33=&ads.n34=channel_brand_id&ads.v34=AMDB013588&ads.n35=content_custom_1_param&ads.v35=6D3A6DA6-1BB3-4746-ACA0-6BC0C2BC33DB&ads.n36=content_livestream&ads.v36=1&ads.n37=app_name&ads.v37=&ads.n38=w&ads.v38=1920&ads.n39=channel_language&ads.v39=en&ads.n40=ip&ads.v40=185.217.168.164&ads.n41=device_make&ads.v41=&ads.n42=channel_name&ads.v42=Construcciones%20Asombrosas&ads.n43=content_provider&ads.v43=construcciones-asombrosas&ads.n44=us_privacy&ads.v44=1YNY&ads.n45=cust_devicename&ads.v45=desktop_web&ads.n46=network_name&ads.v46=construcciones-asombrosas&ads.n47=content_custom_2_param&ads.v47=AMDB013588&ads.n48=pos&ads.v48=midroll&ads.n49=content_producer_name&ads.v49=Warner%20Brothers%20Discovery&ads.n50=ifa_type&ads.v50=&ads.n51=device_type&ads.v51=&ads.n52=app_bundle&ads.v52=&ads.n53=channel_company_id&ads.v53=AMDP500559&ads.n54=content_type&ads.v54=channel&ads.n55=channel_genre&ads.v55=Entertainment&ads.n56=ua&ads.v56=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n57=gpp_sid&ads.v57=&ads.n58=device_model&ads.v58=
 #EXTINF:-1 group-title="VOD Italy",Consulenze illegali – Pluto TV
@@ -4039,8 +4011,6 @@ https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
 https://s6host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config8/bbb/aclco/aclco.m3u8?ads.cdnhost=s6host4.localnow.api.cms.amdvids.com&ads.playbackid=6E6E57BD-F5B8-4204-8162-AA89CA95E122&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=6E6E57BD-F5B8-4204-8162-AA89CA95E122&ads.n4=content_name&ads.v4=EPG%20%7C%20ACL%20Cornhole%20TV&ads.n21=app_store_url&ads.v21=&ads.n22=channel_corp&ads.v22=Triple-B%20Media%20LLC&ads.n23=content_custom_3_param&ads.v23=channel&ads.n24=channel_language&ads.v24=en&ads.n25=app_version&ads.v25=0.0.0&ads.n26=ua&ads.v26=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n27=network_name&ads.v27=acl-cornhole-tv&ads.n28=channel_genre&ads.v28=Sports&ads.n29=dnt&ads.v29=&ads.n30=gpp&ads.v30=&ads.n31=device_make&ads.v31=&ads.n32=cust_devicename&ads.v32=desktop_web&ads.n33=h&ads.v33=1080&ads.n34=pos&ads.v34=midroll&ads.n35=gpp_sid&ads.v35=&ads.n36=channel_ext_id&ads.v36=617039eba3f35e5a5d57d81c&ads.n37=channel_company_id&ads.v37=AMDP500174&ads.n38=content_provider&ads.v38=acl-cornhole-tv&ads.n39=us_privacy&ads.v39=1YNY&ads.n40=url&ads.v40=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n41=content_type&ads.v41=channel&ads.n42=ifa_type&ads.v42=&ads.n43=app_bundle&ads.v43=&ads.n44=channel_name&ads.v44=EPG%20%20ACL%20Cornhole%20TV&ads.n45=channel_id&ads.v45=6E6E57BD-F5B8-4204-8162-AA89CA95E122&ads.n46=content_custom_2_param&ads.v46=AMDB012520&ads.n47=app_name&ads.v47=&ads.n48=device_model&ads.v48=&ads.n49=channel_title&ads.v49=EPG%20%20ACL%20Cornhole%20TV&ads.n50=channel_brand_id&ads.v50=AMDB012520&ads.n51=ip&ads.v51=185.217.168.164&ads.n52=content_custom_1_param&ads.v52=6E6E57BD-F5B8-4204-8162-AA89CA95E122&ads.n53=content_producer_name&ads.v53=Triple-B%20Media%20LLC&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=did&ads.v55=&ads.n56=content_livestream&ads.v56=1&ads.n57=device_type&ads.v57=&ads.n58=w&ads.v58=1920
 #EXTINF:-1 group-title="General",Correa Radiovision
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-#EXTINF:-1 group-title="General",Corrientes TV
-https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: History & Learning",Cosmic Frontiers
 https://dbrb49pjoymg4.cloudfront.net/10001/99951345/hls/8-9-4433.m3u8?ads.xumo_channelId=99951345&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AlliantContentSpaceScienceNow&ads.csid=xumo_[PLATFORM]_AlliantContentSpaceScienceNow_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4092&ads.xumo_contentName=AlliantContentSpaceScienceNow&ads.xumo_providerId=4092&ads.xumo_providerName=AlliantContentSpaceScienceNow&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951345&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="Science",Cosmos TV (720p)
@@ -4207,8 +4177,6 @@ https://www.youtube.com/c/CTVNews/live
 https://twitch-m3u8.bastypro112.workers.dev/ctv19live/index.m3u8
 #EXTINF:-1 group-title="General",CTV8 HD
 https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
-#EXTINF:-1 group-title="News",CTVN AKD Plus (1080p)
-https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 group-title="VOD Italy",Cucina – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa718a8ec810007d87fee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Culture",Cultura 24
@@ -4283,8 +4251,6 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 group-title="Education",Da Vinci (Poland) (1080p)
 http://57.128.231.171:8080/284/index.m3u8
-#EXTINF:-1 group-title="Religious",DAAI TV
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 group-title="Education;News",Dabanga TV (1080p)
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 group-title="General",Dac TV (720p)
@@ -4293,8 +4259,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Dagestan (1080p)
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 group-title="News",Daily Post TV (1080p)
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
+#EXTINF:-1 group-title="Slovakia",Dajto
+https://sktv.mxnticek.eu/new/stream.php?ch=Dajto
 #EXTINF:-1 group-title="General",Dali TV (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="Reality Competition",Dallas Cowboys Cheer
@@ -4307,8 +4273,8 @@ https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
 https://jmp2.uk/plu-64e77016324d190008291c13.m3u8
 #EXTINF:-1 group-title="Music",Dance FM (720p)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 group-title="REALITY",Dance Moms
-https://amg00276-amg00276c9-vizio-us-4061.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dancemoms-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwMH0
+#EXTINF:-1 group-title="General",Dance Moms (NO)
+https://amg00276-aenetwork-amg00276c16-lg-no-3755.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Dance Moms (CA) Geo
 https://amg00276-aenetwork-amg00276c16-lg-ca-3742.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Reality TV",Dance Moms by Lifetime
@@ -4483,8 +4449,6 @@ http://38.19.41.46:8081/DEPELICULA/index.m3u8
 http://200.115.120.1:8000/play/ca030/index.m3u8
 #EXTINF:-1 group-title="Movies",De Pelicula US (720p)
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
-#EXTINF:-1 group-title="News",De Ultimo Minuto TV
-https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 group-title="Documentary",Deadly Women (1080p)
 https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 #EXTINF:-1 group-title="General",Deal Masters (GB) Geo
@@ -4497,8 +4461,8 @@ https://banijay-dealornodeal-lg-ca.amagi.tv/playlist.m3u8
 https://banijay-dealornodeal-lg-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Deal or no Deal alt ?(AU) Geo
 https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="GAME SHOWS",Deal Zone
-https://acae5ac4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRGVhbFpvbmVfSExT/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzgyMzk4MjY1MX0
+#EXTINF:-1 group-title="Reality Competition",Deal Zone
+https://jmp2.uk/stvp-USBB52000246M
 #EXTINF:-1 group-title="WESTERNS + CLASSICS",Death Valley Days
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885571/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885571&ads.csid=viziowatchfree_us_deathvalleydays_ssai&ads.caid=DeathValleyDays&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=DeathValleyDays&ads.xumo_providerId=260&ads.xumo_providerName=DeathValleyDays&ads.channelId=88885571&ads.xumo_channelName=DeathValleyDays&ads._fw_content_programmer_brand=DeathValleyDays&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDI1NjQxOTI0Mn0
 #EXTINF:-1 group-title="General",Decima TV (720p)
@@ -4527,6 +4491,8 @@ https://s1.dcdn.lt/live/televizija/playlist.m3u8
 https://amg00136-wbd-amg00136c80-vizio-us-9384.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-deliciouseats-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYyMjc0NzkwMn0
 #EXTINF:-1 group-title="General",DellaTV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+#EXTINF:-1 group-title="Greece",Delta Evros
+http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
 #EXTINF:-1 group-title="General",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:-1 group-title="General",Delta TV Canal 50 (720p) [Not 24/7]
@@ -4675,6 +4641,8 @@ http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Disney Channel Latin America (1080p)
 http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Disney Channel Latin America Center (1080p)
+http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Disney Channel Latin America Mexico (720p)
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Disney Channel Latin America North (576p)
@@ -4757,10 +4725,10 @@ https://cdn-live.dltv.ac.th/dltv09.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 #EXTINF:-1 group-title="Music",DMF (1080p) [Not 24/7]
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 group-title="Religious",DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 group-title="General",Dmoda Channel (1080p)
 https://master.tucableip.com/dmoda/index.m3u8
-#EXTINF:-1 group-title="General",Dnipro TV (1080p)
-http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 group-title="News",DNN (576p)
 http://51.75.127.199:3141/dnn/index.m3u8
 #EXTINF:-1 group-title="General",Doble C Television (720p)
@@ -4811,6 +4779,8 @@ http://stream.mcquack.net/236/index.m3u8
 https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Movies",Dom kino Premium HD (1080p)
 http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Slovakia",Doma
+https://sktv.mxnticek.eu/new/stream.php?ch=Doma
 #EXTINF:-1 group-title="Lifestyle",Domashnie Zhivotnye (576p)
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Lifestyle",Domashniy (576p)
@@ -4829,12 +4799,8 @@ https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellbride-lgnl/playlist.m3u8
 #EXTINF:-1 group-title="Motor Sports",Donut
 https://jmp2.uk/stvp-US17000281T
-#EXTINF:-1 group-title="General",Dopa Channel
-http://dopachannel.truegse.com/live/dopatv03.m3u8
 #EXTINF:-1 group-title="Kids",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
-#EXTINF:-1 group-title="Movies",Dorama (576p)
-https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Documentary",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 group-title="Religious",Dost TV (576p)
@@ -5187,6 +5153,8 @@ https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="General",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 group-title="Family",EmanTv (1080p)
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 group-title="Home & Food",Emeril Lagasse Channel
@@ -5417,6 +5385,8 @@ http://sb.err.ee/live/etv2.m3u8
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 group-title="General",Eurasia (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="Greece",Euro
+https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 group-title="General",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="Music",Euro Indie Music Chart TV (360p)
@@ -5479,6 +5449,8 @@ https://www.youtube.com/euronews/live
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1 group-title="General",EUTV (720p)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="Culture",Ev-tele (720p)
+https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 group-title="Religious",Evandis Gospel TV (1080p)
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Eventyrlig Oppussing
@@ -5595,6 +5567,8 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 https://falak.rst.ae/index.m3u8
 #EXTINF:-1 group-title="Music",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Familia Vision HD [Not 24/7]
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Familien fra Bryggen
 https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Classic TV",Family Affair Channel
@@ -5695,6 +5669,8 @@ https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 #EXTINF:-1 group-title="Religious",FGTV (South Korea) (720p)
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Fides TV (720p)
 https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8
 #EXTINF:-1 group-title="Auto",Fierro a Fondo TV (1080p)
@@ -5877,8 +5853,6 @@ https://jmp2.uk/stvp-US600011Q2
 https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1 group-title="Entertainment",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
-#EXTINF:-1 group-title="Entertainment",FORT TV (480p)
-https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 group-title="Religious",Fortaleza TV (1080p)
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 group-title="General",Fortaleza TV Cueto (720p)
@@ -6147,8 +6121,6 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 https://jmp2.uk/stvp-USBD2700002DU
 #EXTINF:-1 group-title="General",Galavision West (720p)
 http://200.115.120.1:8000/play/ca128/index.m3u8
-#EXTINF:-1 group-title="Entertainment",GalaxiATeVe (360p)
-https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 group-title="General",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="General;Public",Galicia TV Europa (720p)
@@ -6165,8 +6137,8 @@ https://cdndirector.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=h5bGwJYFZy9A
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 group-title="Sports & Outdoors",Game & Fish TV
 https://jmp2.uk/stvp-US4400001PL
-#EXTINF:-1 group-title="GAME SHOWS",Game Show Central
-https://d56be438.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR2FtZVNob3dDZW50cmFsX0hMUw/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MjkyNzUyNTMyM30
+#EXTINF:-1 group-title="Entertainment",Game Show Central (720p)
+https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 #EXTINF:-1 group-title="Entertainment",Game Show Network (720p) [Not 24/7]
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Game+ (720p)
@@ -6211,8 +6183,6 @@ http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",GEB Network KBPX-LD (1080p)
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
-#EXTINF:-1 group-title="Movies",GEM Pixel
-https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 group-title="Shop",Gem Shopping Network (720p)
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Shop",Gems TV (720p)
@@ -6307,14 +6277,14 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
 #EXTINF:-1 group-title="Canada",Global News Winnipeg
 https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
-#EXTINF:-1 group-title="News",Global Punjab (1080p)
-https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 group-title="General",Global TV (Peru) (1080p)
 http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 group-title="Entertainment",GlobalWorldTV (720p)
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 #EXTINF:-1 group-title="Italy",Globo Tv
 https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8
+#EXTINF:-1 group-title="General",Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="Italy",Globus Television
 https://cdn.cubws.com/live/globus.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Combat Sports",GLORY Kickboxing
@@ -6429,6 +6399,8 @@ https://amg26329-amg26329c1-amgplt0030.playout.now3.amagi.tv/playlist.m3u8
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="General",Grande TV
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 #EXTINF:-1 group-title="EN ESPAÑOL",Grandes Parejas
 https://linear-318.frequency.stream/dist/vizio/318/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQzNTI1ODIxODB9
 #EXTINF:-1 group-title="Movies",Gravitas Movies (1080p)
@@ -6457,6 +6429,8 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Greater Love TV (720p)
 https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
+#EXTINF:-1 group-title="Family",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Westerns & Country",Grit Xtra
 https://dbrb49pjoymg4.cloudfront.net/10001/99951152/hls/playlist.m3u8?ads.xumo_channelId=99951152&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsGritXtra&ads.csid=xumo_[PLATFORM]_ScrippsGritXtra_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3807&ads.xumo_contentName=ScrippsGritXtra&ads.xumo_providerId=3807&ads.xumo_providerName=ScrippsGritXtra&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951152&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="General",Grjngo (AT)
@@ -6489,10 +6463,6 @@ https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 #EXTINF:-1 group-title="News",GTC News (1080p)
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
-#EXTINF:-1 group-title="Entertainment",GTC Punjabi (1080p)
-https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
-#EXTINF:-1 group-title="General",Guada TV (720p) [Not 24/7]
-https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 #EXTINF:-1 group-title="Religious",Guadalupe Media (720p)
 https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1 group-title="Undefined",Guangdong Satellite TV
@@ -6587,8 +6557,6 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885520/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885520&ads.csid=viziowatchfree_us_crownmediahallmarkmoviesnew_ssai&ads.caid=CrownMediaHallmarkMoviesNew&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=2777&ads.xumo_contentName=CrownMediaHallmarkMoviesNew&ads.xumo_providerId=2777&ads.xumo_providerName=CrownMediaHallmarkMoviesNew&ads.channelId=88885520&ads.xumo_channelName=HallmarkMovies&ads.xumo_imdb_genre=Action&ads._fw_content_programmer_brand=CrownMediaHallmarkMoviesNew&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.amznappId=14911df5fe9f4df5a4ebfa1eb51d83eb&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MzIwNTQ0NDcxNn0
 #EXTINF:-1 group-title="Culture",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="News",Hamdard TV (1080p)
-https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 group-title="Undefined",Hamedan TV
 https://ncdn.telewebion.ir/sina/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Hamoon TV
@@ -6649,8 +6617,6 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 group-title="General",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 group-title="News",Headlines Tripura (720p)
-https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
 #EXTINF:-1 group-title="Music",Heart Radio Aruba
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Action & Drama",Heartland
@@ -6691,8 +6657,6 @@ https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:-1 group-title="General",HGPTV (720p) [Not 24/7]
-https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
 #EXTINF:-1 group-title="Italy",HGTV – Home & Garden Tv
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Hi Dost! (720p)
@@ -6771,6 +6735,8 @@ https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951397/hls/playlist.m3u8?ads.xumo_channelId=99951397&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDHitSitcoms&ads.csid=xumo_[PLATFORM]_WBDHitSitcoms_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4205&ads.xumo_contentName=WBDHitSitcoms&ads.xumo_providerId=4205&ads.xumo_providerName=WBDHitSitcoms&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951397&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="Music",Hitradio O3 (720p)
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 group-title="General",HLAJ-DTV (352p) [Not 24/7]
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 group-title="General",HLAM-DTV (720p) [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="General",HLAN-DTV (480p) [Not 24/7]
@@ -6799,6 +6765,8 @@ http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="General",HLKJ-DTV (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 group-title="Legislative",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 group-title="Music",HMI PROMZ NEWS (720p)
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Hmong Star TV (720p) [Not 24/7]
@@ -6809,8 +6777,6 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 https://cdn.pishow.tv/ott/live/280/master.m3u8
 #EXTINF:-1 group-title="General",HNC Free (UK) Geo
 https://hncfree-lg-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News",HNN 24x7 (576p)
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 #EXTINF:-1 group-title="Reality TV",Hoarders by A&E
 https://jmp2.uk/stvp-USBD4200009Y4
 #EXTINF:-1 group-title="Lifestyle",Hobby Maker (720p)
@@ -6829,8 +6795,6 @@ https://jmp2.uk/stvp-USBB5200019FO
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Culture",Holvoet TV (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General;Religious",Holy Quran Radio (1080p)
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Holy Quran Radio Nablus (720p)
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 group-title="Shop",Home & Shopping (720p)
@@ -6939,6 +6903,8 @@ https://986a99ca.wurl.com/v1/hsn_samsung/vizio_us/latest/main/hls/playlist.m3u8?
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 group-title="Shop",HSN2 (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 group-title="Undefined",HSTV (720p)
+https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 group-title="Sports",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 group-title="Legislative",HTV 1 Houston Television (720p)
@@ -6973,6 +6939,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-fr-lg/playlist.
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/alchimieA-humanity-doc-it-lg/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="General",Hunedoara 1 (480p) [Not 24/7]
+https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 group-title="Kids",Hungama TV (576p)
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTINF:-1 group-title="Cooking",Hungry (720p)
@@ -7117,16 +7085,12 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 group-title="Movies",Illusion+ (576p)
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="Undefined",ILTV (720p)
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Imagen FM 105.1 (720p) [Not 24/7]
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 group-title="General",Imagen TV (1080p)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 group-title="General",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 group-title="Culture",Imai TV (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Imam Hussein TV 1 (1080p)
 http://fa.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 group-title="Religious",Imam Hussein TV 2 (1080p)
@@ -7139,6 +7103,8 @@ http://ur.imamhossaintv.com/live/ih4.m3u8
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Imam Hussein TV 6 (1080p)
 http://live.imamhossaintv.com/live/ih6.m3u8
+#EXTINF:-1 group-title="General",Imas TV (1080p) [Not 24/7]
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 group-title="General",Imedi TV (1080p)
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 group-title="Religious",Immaculata TV (720p)
@@ -7159,12 +7125,8 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 group-title="Undefined",Imperial Television (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
-#EXTINF:-1 group-title="General",Imperial TV (720p)
-https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 group-title="Series",Impossible Quiz Show (1080p)
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="News",IN 24 News (576p)
-http://51.75.127.199:3141/in24news/index.m3u8
 #EXTINF:-1 group-title="Lifestyle & Pop Culture",In Depth with Graham Bensinger
 https://jmp2.uk/stvp-US2600024EO
 #EXTINF:-1 group-title="Cooking;Shop",In the Kitchen (720p)
@@ -7345,14 +7307,10 @@ http://185.9.2.18/chid_926/index.m3u8
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 group-title="General",IRT (720p)
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
-#EXTINF:-1 group-title="Religious",ISA TV
-https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Isaac TV (720p)
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Isai Aruvi (396p)
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 group-title="Music",Isango TV (480p) [Not 24/7]
-http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8
 #EXTINF:-1 group-title="General",Isfahan TV
 https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
 #EXTINF:-1 group-title="Culture;Music;Religious",Ishtar TV SD (1080p)
@@ -7411,8 +7369,6 @@ http://45.14.84.37/itv3/index.m3u8
 http://45.14.84.37/itv4/index.m3u8
 #EXTINF:-1 group-title="Entertainment;Sports",ITV Deportes (720p)
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Entertainment",iTV HD
-https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 group-title="General",ITV Patagonia (720p)
 https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 group-title="General",ITV1 London +1
@@ -7507,16 +7463,10 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 group-title="Culture;Religious",Jewish Life Television (1080p)
 https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
-#EXTINF:-1 group-title="Religious",JFV TV (720p)
-https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",Jibek Joly (576p)
-https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="General",Jibek Joly HD (1080p)
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 #EXTINF:-1 group-title="General",Jihoceska televize (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Jim (720p)
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 #EXTINF:-1 group-title="Kids",JimJam Europe (720p)
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 group-title="Culture",Jin TV
@@ -7533,6 +7483,8 @@ https://jobtvserver.eu/hls/stream.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99951344/hls/playlist.m3u8?ads.xumo_channelId=99951344&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=SendersMediaJoelOsteenNetwork&ads.csid=xumo_[PLATFORM]_SendersMediaJoelOsteenNetwork_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Religion,Religious,Faith,Spirituality,D&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Religion,Religious,Faith,Spirituality,D&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4091&ads.xumo_contentName=SendersMediaJoelOsteenNetwork&ads.xumo_providerId=4091&ads.xumo_providerName=SendersMediaJoelOsteenNetwork&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951344&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="General",Jogja Istimewa TV (720p)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 group-title="General",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Classic TV",Johnny Carson TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991157/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991157&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheJohnnyCarsonShow&ads.csid=xumo_[PLATFORM]_TheJohnnyCarsonShow_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=197&ads.xumo_contentName=ShoutFactory&ads.xumo_providerId=197&ads.xumo_providerName=ShoutFactory&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991157&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="General",Johnny Carson TV (US) Geo
@@ -7589,6 +7541,10 @@ https://jewelrytv-xumo.amagi.tv/playlist.m3u8
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="General",JTV Madiun
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",JTV Madura (480p) [Not 24/7]
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 group-title="General",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Somalia",Jubbaland TV Ⓨ
 https://www.youtube.com/@JLTVOfficial1/live
 #EXTINF:-1 group-title="Religious",Jubilo TV (720p)
@@ -7667,8 +7623,6 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
 #EXTINF:-1 group-title="Entertainment",Kalaignar Murasu (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-#EXTINF:-1 group-title="Music",Kalika TV (576p)
-http://server.applelive.in/kalikatv/kalikatv.m3u8
 #EXTINF:-1 group-title="News",Kalinga TV (720p)
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 #EXTINF:-1 group-title="Lifestyle",Kaloopy TV (1080p)
@@ -7711,6 +7665,8 @@ http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 group-title="General",Kanal Firat (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 group-title="General",Kanal Hayat (1080p)
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 #EXTINF:-1 group-title="General",Kanal Hovedstaden (720p) [Not 24/7]
 http://khkbh.dk:8080/hls/livestream/index.m3u8
 #EXTINF:-1 group-title="General",Kanal Jadid
@@ -7721,6 +7677,8 @@ https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 group-title="General",Kanal V (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 group-title="Music",KandelaTV (480p)
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 group-title="General",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 group-title="General",Kanizsa TV (400p)
@@ -7789,8 +7747,6 @@ https://s1host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 group-title="LocalNow🇺🇸: More Cities",KCEN Waco TX
 https://s10host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/kcen/24x7/index.m3u8?vendor=LocalNow&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ads.cdnhost=s10host5.localnow.api.cms.amdvids.com&ads.playbackid=844D3C1A-671D-47E2-AE5C-191EB77F2C70&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=844D3C1A-671D-47E2-AE5C-191EB77F2C70&ads.n4=content_name&ads.v4=KCEN%20Waco%20TX&ads.n21=channel_id&ads.v21=844D3C1A-671D-47E2-AE5C-191EB77F2C70&ads.n22=h&ads.v22=1080&ads.n23=pos&ads.v23=midroll&ads.n24=channel_rating&ads.v24=TV-PG&ads.n25=device_model&ads.v25=&ads.n26=channel_language&ads.v26=en&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=channel_brand_id&ads.v28=AMDB013620&ads.n29=content_livestream&ads.v29=1&ads.n30=device_make&ads.v30=&ads.n31=content_producer_name&ads.v31=Tegna%20INC&ads.n32=app_store_url&ads.v32=&ads.n33=content_custom_2_param&ads.v33=AMDB013620&ads.n34=channel_title&ads.v34=KCEN%20Waco%20TX&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=ip&ads.v36=185.217.168.164&ads.n37=channel_name&ads.v37=KCEN%20Waco%20TX&ads.n38=content_type&ads.v38=channel&ads.n39=app_bundle&ads.v39=&ads.n40=device_type&ads.v40=&ads.n41=channel_ext_id&ads.v41=&ads.n42=dnt&ads.v42=&ads.n43=app_version&ads.v43=0.0.0&ads.n44=w&ads.v44=1920&ads.n45=channel_genre&ads.v45=News&ads.n46=did&ads.v46=&ads.n47=network_name&ads.v47=kcenkags-waco-bryan-college&ads.n48=gpp_sid&ads.v48=&ads.n49=content_provider&ads.v49=kcenkags-waco-bryan-college&ads.n50=app_name&ads.v50=&ads.n51=ifa_type&ads.v51=&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=content_custom_3_param&ads.v53=channel&ads.n54=channel_company_id&ads.v54=AMDP500555&ads.n55=gpp&ads.v55=&ads.n56=content_custom_1_param&ads.v56=844D3C1A-671D-47E2-AE5C-191EB77F2C70&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=channel_corp&ads.v58=Tegna%20INC
-#EXTINF:-1 group-title="Entertainment",KCL TV (720p)
-https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 group-title="General",KCPQ (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kcpq-lgus/playlist.m3u8
 #EXTINF:-1 group-title="LocalNow🇺🇸: More Cities",KCPQ FOX 13 Seattle WA
@@ -7863,8 +7819,6 @@ https://amg01438-amg01438c3-vizio-us-10813.playouts.now.amagi.tv/playlist/amg014
 https://s1host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/playlist.m3u8?ads.cdnhost=s1host5.localnow.api.cms.amdvids.com&ads.playbackid=0C20AC6C-52DA-4098-AF6B-67FE58DE7811&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=0C20AC6C-52DA-4098-AF6B-67FE58DE7811&ads.n4=content_name&ads.v4=EPG%20%7C%20KGUN%20Tucson%2C%20AZ&ads.n21=channel_brand_id&ads.v21=AMDB012599&ads.n22=ifa_type&ads.v22=&ads.n23=content_provider&ads.v23=kgun&ads.n24=pos&ads.v24=midroll&ads.n25=ua&ads.v25=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n26=content_livestream&ads.v26=1&ads.n27=device_model&ads.v27=&ads.n28=content_custom_3_param&ads.v28=channel&ads.n29=us_privacy&ads.v29=1YNY&ads.n30=w&ads.v30=1920&ads.n31=channel_company_id&ads.v31=AMDP500135&ads.n32=network_name&ads.v32=kgun&ads.n33=channel_rating&ads.v33=TV-PG&ads.n34=app_store_url&ads.v34=&ads.n35=gpp_sid&ads.v35=&ads.n36=cust_devicename&ads.v36=desktop_web&ads.n37=channel_language&ads.v37=en&ads.n38=url&ads.v38=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n39=h&ads.v39=1080&ads.n40=dnt&ads.v40=&ads.n41=content_type&ads.v41=channel&ads.n42=gpp&ads.v42=&ads.n43=content_custom_2_param&ads.v43=AMDB012599&ads.n44=channel_corp&ads.v44=Scripps%20Media%20INC&ads.n45=did&ads.v45=&ads.n46=ip&ads.v46=185.217.168.164&ads.n47=device_make&ads.v47=&ads.n48=channel_name&ads.v48=EPG%20%20KGUN%20Tucson%2C%20AZ&ads.n49=channel_genre&ads.v49=News&ads.n50=device_type&ads.v50=&ads.n51=app_version&ads.v51=0.0.0&ads.n52=channel_ext_id&ads.v52=621fdff7a16f9d28291343b3&ads.n53=content_producer_name&ads.v53=Scripps%20Media%20INC&ads.n54=app_bundle&ads.v54=&ads.n55=content_custom_1_param&ads.v55=0C20AC6C-52DA-4098-AF6B-67FE58DE7811&ads.n56=app_name&ads.v56=&ads.n57=channel_id&ads.v57=0C20AC6C-52DA-4098-AF6B-67FE58DE7811&ads.n58=channel_title&ads.v58=EPG%20%20KGUN%20Tucson%2C%20AZ
 #EXTINF:-1 group-title="LocalNow🇺🇸: More Cities",KGW NBC News 8 Portland OR
 https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/kgw/24x7/index.m3u8?vendor=LocalNow&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=185.217.168.164&ads.cdnhost=s10host3.localnow.api.cms.amdvids.com&ads.playbackid=CA8A62A2-B954-44F0-B9CF-96AB6417F5D7&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CA8A62A2-B954-44F0-B9CF-96AB6417F5D7&ads.n4=content_name&ads.v4=KGW%20Portland%20OR&ads.n21=pos&ads.v21=midroll&ads.n22=device_make&ads.v22=&ads.n23=h&ads.v23=1080&ads.n24=w&ads.v24=1920&ads.n25=dnt&ads.v25=&ads.n26=device_type&ads.v26=&ads.n27=content_livestream&ads.v27=1&ads.n28=app_store_url&ads.v28=&ads.n29=app_bundle&ads.v29=&ads.n30=network_name&ads.v30=kgw-portland&ads.n31=channel_language&ads.v31=en&ads.n32=channel_genre&ads.v32=News&ads.n33=channel_company_id&ads.v33=AMDP500555&ads.n34=channel_ext_id&ads.v34=&ads.n35=did&ads.v35=&ads.n36=content_type&ads.v36=channel&ads.n37=channel_id&ads.v37=CA8A62A2-B954-44F0-B9CF-96AB6417F5D7&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=channel_name&ads.v39=KGW%20Portland%20OR&ads.n40=content_custom_2_param&ads.v40=AMDB013594&ads.n41=device_model&ads.v41=&ads.n42=gpp_sid&ads.v42=&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=cust_devicename&ads.v44=desktop_web&ads.n45=ifa_type&ads.v45=&ads.n46=content_custom_1_param&ads.v46=CA8A62A2-B954-44F0-B9CF-96AB6417F5D7&ads.n47=ip&ads.v47=185.217.168.164&ads.n48=channel_brand_id&ads.v48=AMDB013594&ads.n49=ua&ads.v49=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n50=app_name&ads.v50=&ads.n51=app_version&ads.v51=0.0.0&ads.n52=channel_corp&ads.v52=Tegna%20INC&ads.n53=gpp&ads.v53=&ads.n54=content_producer_name&ads.v54=Tegna%20INC&ads.n55=us_privacy&ads.v55=1YNY&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n57=channel_title&ads.v57=KGW%20Portland%20OR&ads.n58=content_provider&ads.v58=kgw-portland
-#EXTINF:-1 group-title="General",Khabar (576p)
-https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="News",Khabar Fast (576p)
 https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
 #EXTINF:-1 group-title="News",Khabrain Abhi Tak (576p)
@@ -7947,6 +7901,8 @@ http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Movies",Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Movies",Kinosvidanie (576p)
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="Movies",Kinoteatr (1080p)
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Kinouzhas (576p)
@@ -8067,8 +8023,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 group-title="Comedy",Komediynoe HD (1080p)
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 group-title="General",Kongress TV (1080p)
-https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="General",Kongsuni
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5478
 #EXTINF:-1 group-title="General",Kontra Channel (1080p)
@@ -8101,6 +8055,8 @@ https://s4host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/kpnx/24x7/index.m3u8?vendor=LocalNow&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&ads.cdnhost=s10host3.localnow.api.cms.amdvids.com&ads.playbackid=7EA306AB-A6D7-48BF-8325-C5CC273A2927&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=7EA306AB-A6D7-48BF-8325-C5CC273A2927&ads.n4=content_name&ads.v4=KPNX%20Phoenix%20AZ&ads.n21=cust_devicename&ads.v21=desktop_web&ads.n22=device_type&ads.v22=&ads.n23=channel_rating&ads.v23=TV-PG&ads.n24=content_type&ads.v24=channel&ads.n25=network_name&ads.v25=kpnx-phoenix&ads.n26=channel_ext_id&ads.v26=&ads.n27=content_provider&ads.v27=kpnx-phoenix&ads.n28=url&ads.v28=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n29=ua&ads.v29=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n30=content_livestream&ads.v30=1&ads.n31=app_version&ads.v31=0.0.0&ads.n32=did&ads.v32=&ads.n33=content_producer_name&ads.v33=Tegna%20INC&ads.n34=app_store_url&ads.v34=&ads.n35=channel_company_id&ads.v35=AMDP500555&ads.n36=ip&ads.v36=185.217.168.164&ads.n37=w&ads.v37=1920&ads.n38=content_custom_2_param&ads.v38=AMDB013595&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=channel_language&ads.v40=en&ads.n41=channel_title&ads.v41=KPNX%20Phoenix%20AZ&ads.n42=device_make&ads.v42=&ads.n43=dnt&ads.v43=&ads.n44=channel_name&ads.v44=KPNX%20Phoenix%20AZ&ads.n45=gpp&ads.v45=&ads.n46=h&ads.v46=1080&ads.n47=channel_corp&ads.v47=Tegna%20INC&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=device_model&ads.v49=&ads.n50=pos&ads.v50=midroll&ads.n51=gpp_sid&ads.v51=&ads.n52=app_name&ads.v52=&ads.n53=channel_brand_id&ads.v53=AMDB013595&ads.n54=ifa_type&ads.v54=&ads.n55=app_bundle&ads.v55=&ads.n56=channel_genre&ads.v56=News&ads.n57=channel_id&ads.v57=7EA306AB-A6D7-48BF-8325-C5CC273A2927&ads.n58=content_custom_1_param&ads.v58=7EA306AB-A6D7-48BF-8325-C5CC273A2927
 #EXTINF:-1 group-title="Undefined",Kpop Mix (720p)
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 group-title="Music",KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 group-title="General",KPVM-LD 25.1
 https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 #EXTINF:-1 group-title="Music",Kral Pop TV (720p)
@@ -8113,6 +8069,8 @@ https://s9host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://s10host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/krem/24x7/index.m3u8?vendor=LocalNow&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ads.cdnhost=s10host3.localnow.api.cms.amdvids.com&ads.playbackid=763AAEBF-2D51-404D-A308-9F54507CFA75&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=763AAEBF-2D51-404D-A308-9F54507CFA75&ads.n4=content_name&ads.v4=KREM%20Spokane%20WA&ads.n21=content_livestream&ads.v21=1&ads.n22=gpp_sid&ads.v22=&ads.n23=dnt&ads.v23=&ads.n24=url&ads.v24=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n25=channel_company_id&ads.v25=AMDP500555&ads.n26=content_custom_2_param&ads.v26=AMDB013622&ads.n27=w&ads.v27=1920&ads.n28=channel_title&ads.v28=KREM%20Spokane%20WA&ads.n29=ip&ads.v29=185.217.168.164&ads.n30=device_type&ads.v30=&ads.n31=channel_ext_id&ads.v31=&ads.n32=device_make&ads.v32=&ads.n33=channel_id&ads.v33=763AAEBF-2D51-404D-A308-9F54507CFA75&ads.n34=content_producer_name&ads.v34=Tegna%20INC&ads.n35=channel_language&ads.v35=en&ads.n36=device_model&ads.v36=&ads.n37=us_privacy&ads.v37=1YNY&ads.n38=ua&ads.v38=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=app_store_url&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_genre&ads.v42=News&ads.n43=app_name&ads.v43=&ads.n44=ifa_type&ads.v44=&ads.n45=h&ads.v45=1080&ads.n46=content_provider&ads.v46=krem-spokane&ads.n47=app_version&ads.v47=0.0.0&ads.n48=channel_rating&ads.v48=TV-PG&ads.n49=content_custom_1_param&ads.v49=763AAEBF-2D51-404D-A308-9F54507CFA75&ads.n50=network_name&ads.v50=krem-spokane&ads.n51=cust_devicename&ads.v51=desktop_web&ads.n52=channel_corp&ads.v52=Tegna%20INC&ads.n53=gpp&ads.v53=&ads.n54=app_bundle&ads.v54=&ads.n55=channel_brand_id&ads.v55=AMDB013622&ads.n56=channel_name&ads.v56=KREM%20Spokane%20WA&ads.n57=did&ads.v57=&ads.n58=content_type&ads.v58=channel
 #EXTINF:-1 group-title="News",Krik-TV (1080p)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Krimi
+https://sktv.mxnticek.eu/new/stream.php?ch=Krimi
 #EXTINF:-1 group-title="General",KRIS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ewscripps-kris-tablo/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS",KRIS 6 News
@@ -8199,8 +8157,6 @@ https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Culture",KTV Arabe (1080p)
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="General",KTV Bangla (720p)
-https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 #EXTINF:-1 group-title="Religious",KTV Ethraa (1080p)
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="News",KTV News (1080p)
@@ -8359,6 +8315,8 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 group-title="Entertainment",La Tele (1080p)
 http://190.93.224.42/LA-TELE/index.m3u8
+#EXTINF:-1 group-title="Entertainment",La Tele Tuya (576p)
+http://181.78.8.199:8000/play/a0fs/index.m3u8
 #EXTINF:-1 group-title="Italy",La Tenda Tv
 https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
 #EXTINF:-1 group-title="Music",La Top 102.9 (720p)
@@ -8443,8 +8401,6 @@ https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951259/hls/master.m3u8?ads.xumo_channelId=99951259&ads.asnw=169843&ads.afid=380744363&ads.sfid=19316505&ads.csid=xumo_[PLATFORM]_NBCULassie_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3946&ads.xumo_contentName=NBCULassie&ads.xumo_providerId=3946&ads.xumo_providerName=NBCULassie&ads.channelId=99951259&ads._fw_ifa_type=[IFA_TYPE]
 #EXTINF:-1 group-title="Entertainment",LatacungaTV (360p)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:-1 group-title="General",Latest TV (480p)
-https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 #EXTINF:-1 group-title="General",Latin Nation
 https://amg00779-latv-amg00779c1-tablo-us-6459.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latination-tablous/playlist.m3u8
 #EXTINF:-1 group-title="Peru",Latina
@@ -8609,6 +8565,8 @@ https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 group-title="News",Lindell TV (720p)
 https://rumble.com/live-hls/6v67mu/playlist.m3u8
+#EXTINF:-1 group-title="Music;News;Religious",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="News",Linieros TV (480p) [Not 24/7]
 https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 group-title="News",Lira TV
@@ -8633,8 +8591,6 @@ https://jmp2.uk/stvp-USBD170000771
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 group-title="General",Litus TV (720p) [Not 24/7]
 https://edge.enhdtv.com/litustv/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Liv (720p)
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
 #EXTINF:-1 group-title="Entertainment",Live Music
 https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Crime TV",Live PD Presents
@@ -9465,12 +9421,12 @@ https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
 https://vmi747311.contaboserver.net/hls/livetv.m3u8
 #EXTINF:-1 group-title="Music",Maqui TV
 https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
-#EXTINF:-1 group-title="General",Maray TV
-https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 #EXTINF:-1 group-title="Series",Maraya (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1 group-title="General",Marca TV (1080p)
 http://200.7.219.221:8088/live/livetv/index.m3u8
+#EXTINF:-1 group-title="General",Marga Marga TV (720p)
+https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 group-title="Italy",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Maria Vision (360p) [Not 24/7]
@@ -9493,6 +9449,8 @@ https://jmp2.uk/stvp-US2000010PO
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 #EXTINF:-1 group-title="Slovakia",Markíza
 https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
+#EXTINF:-1 group-title="Slovakia",Markíza TN Live
+https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live
 #EXTINF:-1 group-title="Series",Married with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1 group-title="General",Marsella TV
@@ -9529,10 +9487,8 @@ https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 group-title="Sports",Match! Boets (576p)
 http://stream.mcquack.net/112/index.m3u8
-#EXTINF:-1 group-title="Sports",Match! Planeta (576p)
-https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="REALITY",Matched Married Meet
-https://amg00276-amg00276c4-vizio-us-4058.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-matchedmarriedmeet-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwMn0
+#EXTINF:-1 group-title="Reality TV",Matched Married Meet
+https://jmp2.uk/stvp-USBC440000193
 #EXTINF:-1 group-title="XUMO🇺🇸: Reality TV",Matched Married Meet by Lifetime
 https://dbrb49pjoymg4.cloudfront.net/10001/99951487/hls/playlist.m3u8?ads.xumo_channelId=99951487&ads.xumo_streamId=99951487&ads.channelId=99951487&ads.channelName=AEMatchedMarriedMeet_us&ads.caid=AEMatchedMarriedMeet&ads.csid=xumo_[PLATFORM]_AEMatchedMarriedMeet_ssai&ads._fw_coppa=0&ads.xumo_contentId=4327&ads.xumo_contentName=AEMatchedMarriedMeet&ads.xumo_providerId=4327&ads.xumo_providerName=AEMatchedMarriedMeet&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
 #EXTINF:-1 group-title="General",Matele (1080p) [Not 24/7]
@@ -9679,8 +9635,6 @@ https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
 https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
 #EXTINF:-1 group-title="Series",Medium (Sweden) NO
 https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8
-#EXTINF:-1 group-title="Religious",Medjugorje Italia TV (480p)
-https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 group-title="Chile",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Mega (Chile) (1080p)
@@ -9711,6 +9665,8 @@ https://meialai.iptelevishion.com/meialai/2/index.m3u8
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Mel Radio TV (360p)
 https://eu1.servers10.com:8081/8334/index.m3u8
+#EXTINF:-1 group-title="Music",Melody FM (720p) [Not 24/7]
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Meltem TV (1080p)
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Mercan TV (576p) [Not 24/7]
@@ -9723,6 +9679,8 @@ https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8
 https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8
 #EXTINF:-1 group-title="Religious",Mercy TV (India) (1080p)
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Merit Street (1080p)
 https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 #EXTINF:-1 group-title="Movies",Merry Christmas from Viafree
@@ -9757,8 +9715,6 @@ https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 group-title="Music",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 group-title="Music",Metropolitana del Cuzco
-https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="General",Mexiquense TV (720p)
@@ -9891,8 +9847,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 group-title="Family",Mixkurdy (1080p)
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Mizpa TV (1080p)
-http://45.167.2.101:8000/play/a0r7/index.m3u8
 #EXTINF:-1 group-title="Entertainment",MK Six (576p)
 https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
 #EXTINF:-1 group-title="Sports",MLB (720p)
@@ -10103,6 +10057,18 @@ https://jmp2.uk/stvp-US170002608
 https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/master.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n4=content_name&ads.v4=Mr.%20Bean%20Live%20Action&ads.n21=device_type&ads.v21=&ads.n22=url&ads.v22=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n23=device_model&ads.v23=&ads.n24=content_producer_name&ads.v24=Banijay%20Rights%20LTD&ads.n25=channel_genre&ads.v25=Comedy&ads.n26=channel_rating&ads.v26=TV-PG&ads.n27=dnt&ads.v27=&ads.n28=channel_id&ads.v28=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n29=content_custom_1_param&ads.v29=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n30=app_name&ads.v30=&ads.n31=app_version&ads.v31=0.0.0&ads.n32=app_store_url&ads.v32=&ads.n33=ifa_type&ads.v33=&ads.n34=channel_name&ads.v34=Mr.%20Bean%20Live%20Action&ads.n35=gpp_sid&ads.v35=&ads.n36=content_custom_2_param&ads.v36=AMDB013679&ads.n37=ip&ads.v37=185.217.168.164&ads.n38=channel_brand_id&ads.v38=AMDB013679&ads.n39=ua&ads.v39=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n40=pos&ads.v40=midroll&ads.n41=app_bundle&ads.v41=&ads.n42=channel_ext_id&ads.v42=&ads.n43=channel_title&ads.v43=Mr.%20Bean%20Live%20Action&ads.n44=content_livestream&ads.v44=1&ads.n45=did&ads.v45=&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=channel_language&ads.v47=en&ads.n48=device_make&ads.v48=&ads.n49=channel_company_id&ads.v49=AMDP500504&ads.n50=channel_corp&ads.v50=Banijay%20Rights%20LTD&ads.n51=cust_devicename&ads.v51=desktop_web&ads.n52=w&ads.v52=1920&ads.n53=content_provider&ads.v53=mr-bean-live-action&ads.n54=h&ads.v54=1080&ads.n55=us_privacy&ads.v55=1YNY&ads.n56=content_type&ads.v56=channel&ads.n57=gpp&ads.v57=&ads.n58=network_name&ads.v58=mr-bean-live-action
 #EXTINF:-1 group-title="Comedy",MrBeast
 https://jmp2.uk/stvp-US310000101
+#EXTINF:-1 group-title="General",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 group-title="Entertainment",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 group-title="Documentary;Lifestyle",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 group-title="Culture",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 group-title="Sports",MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 group-title="General",MRVTV Channel 44 (720p)
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",MRVTV Channel 45 (720p)
@@ -10221,8 +10187,6 @@ https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8
 https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 #EXTINF:-1 group-title="Music",MTV Flow Latino LatAm (720p)
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 group-title="General",MTV Guyana (1080p) [Not 24/7]
-https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV Jersey Shore
 https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 group-title="Entertainment",MTV Jerseys
@@ -10301,20 +10265,12 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 group-title="Finland",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
-#EXTINF:-1 group-title="Kids",Mult International (576p)
-https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Kids",Multilandia (576p)
-https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Movies",MultiPremier (1080p)
 http://168.196.127.137:6001/play/a08n/index.m3u8
-#EXTINF:-1 group-title="General",Multivision Canal 3 (720p) [Not 24/7]
-https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 group-title="General",Munchen TV (1080p) [Not 24/7]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="General",Mundos Lacustres TV (720p)
 https://video.ipstream.cl:3710/hybrid/play.m3u8
-#EXTINF:-1 group-title="News",Munsif TV (576p)
-https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 #EXTINF:-1 group-title="Crime",Murder She Wrote
 https://jmp2.uk/stvp-US1800001D1
 #EXTINF:-1 group-title="XUMO🇺🇸: Action & Drama",Murdoch Mysteries
@@ -10361,8 +10317,6 @@ http://stream.mcquack.net/107/index.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 group-title="Music",Muzyka 1 [Not 24/7]
 https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Music",Muzyka Kino [Not 24/7]
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="Music",Muzyka Live (576p)
 http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 group-title="Music",Muzyka Pervogo (576p)
@@ -10379,10 +10333,14 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
 #EXTINF:-1 group-title="XUMO🇺🇸: Kids",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_[PLATFORM]_HasbroMyLittlePony_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=1&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951442&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTINF:-1 group-title="General",My TV (Bangladesh)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",My TV Channel (720p) [Not 24/7]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",MY5 (576p)
 https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="General",Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8
 #EXTINF:-1 group-title="LocalNow🇺🇸: True Crime",Mysteria
 https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/dist/localnow/541/hls/master/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=86B50402-32F0-4EBF-9AF8-65DAE9C09A44&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=86B50402-32F0-4EBF-9AF8-65DAE9C09A44&ads.n4=content_name&ads.v4=Mysteria&ads.n21=app_store_url&ads.v21=&ads.n22=ip&ads.v22=185.217.168.164&ads.n23=channel_rating&ads.v23=TV-PG&ads.n24=device_model&ads.v24=&ads.n25=pos&ads.v25=midroll&ads.n26=channel_id&ads.v26=86B50402-32F0-4EBF-9AF8-65DAE9C09A44&ads.n27=content_custom_3_param&ads.v27=channel&ads.n28=device_make&ads.v28=&ads.n29=channel_ext_id&ads.v29=&ads.n30=h&ads.v30=1080&ads.n31=url&ads.v31=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n32=content_producer_name&ads.v32=LawNewz%20INC%20dba%20Law%20&%20Crime&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_genre&ads.v34=Mystery&ads.n35=content_custom_1_param&ads.v35=86B50402-32F0-4EBF-9AF8-65DAE9C09A44&ads.n36=channel_brand_id&ads.v36=AMDB013680&ads.n37=did&ads.v37=&ads.n38=app_bundle&ads.v38=&ads.n39=dnt&ads.v39=&ads.n40=content_provider&ads.v40=mysteria&ads.n41=channel_name&ads.v41=Mysteria&ads.n42=content_livestream&ads.v42=1&ads.n43=channel_corp&ads.v43=LawNewz%20INC%20dba%20Law%20&%20Crime&ads.n44=network_name&ads.v44=mysteria&ads.n45=us_privacy&ads.v45=1YNY&ads.n46=device_type&ads.v46=&ads.n47=content_type&ads.v47=channel&ads.n48=channel_language&ads.v48=en&ads.n49=w&ads.v49=1920&ads.n50=app_name&ads.v50=&ads.n51=gpp&ads.v51=&ads.n52=gpp_sid&ads.v52=&ads.n53=app_version&ads.v53=0.0.0&ads.n54=content_custom_2_param&ads.v54=AMDB013680&ads.n55=channel_company_id&ads.v55=AMDP500140&ads.n56=ifa_type&ads.v56=&ads.n57=channel_title&ads.v57=Mysteria&ads.n58=ua&ads.v58=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36
 #EXTINF:-1 group-title="Sci-Fi & Horror",Mysteries Xplored
@@ -10429,6 +10387,8 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 https://linear-254.frequency.stream/dist/vizio/254/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQzNTI1ODIxNzh9
 #EXTINF:-1 group-title="General",n-tv
 https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Bosnia and Herzegovina",N1 Bosna i Hercegovina
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
 #EXTINF:-1 group-title="Croatia",N1 Hrvatska Ⓨ
 https://www.youtube.com/@N1_Hrvatska/live
 #EXTINF:-1 group-title="Documentary",N24 Doku
@@ -10441,16 +10401,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u
 https://vdochile.com:3194/live/mvqutymylive.m3u8
 #EXTINF:-1 group-title="News",Naftemporiki TV (1080p)
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
-#EXTINF:-1 group-title="News",Nagaland TV (576p)
-https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Namayesh TV
 https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nambikkai TV
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
-#EXTINF:-1 group-title="Religious",Namdhari TV (404p) [Not 24/7]
-https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 group-title="News",NAN TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 group-title="Religious",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 group-title="General",Nandighosha TV (576p)
@@ -10771,8 +10727,6 @@ https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Local News",News 12 New York
 https://dbrb49pjoymg4.cloudfront.net/10001/99951222/hls/index.m3u8?ads.xumo_channelId=99951222&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CheddarNews12NY&ads.csid=xumo_[PLATFORM]_CheddarNews12NY_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3889&ads.xumo_contentName=CheddarNews12NY&ads.xumo_providerId=3889&ads.xumo_providerName=CheddarNews12NY&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951222&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 group-title="General",News 18 Bangla Geo
-https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",News 18 c1 to id (IN) Geo
 https://amg00866-amg00866c1-lg-in-3521.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",News 18 c3 to id (IN) Geo
@@ -10787,10 +10741,10 @@ https://amg00866-amg00866c7-lg-in-3523.playouts.now.amagi.tv/playlist.m3u8
 https://amg00866-amg00866c8-lg-in-3524.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",News 18 Madhya Pradesh Geo
 https://amg00866-amg00866c3-xiaomi-in-3553.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="General",News 18 Uttarakhand Geo
+https://amg00866-amg00866c4-xiaomi-in-3552.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",News 1st (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
-#EXTINF:-1 group-title="News",News 21 (576p)
-http://51.75.127.199:3141/news21/index.m3u8
 #EXTINF:-1 group-title="News",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 group-title="News",News 24 (Albania) (392p)
@@ -10823,10 +10777,10 @@ https://stream.ottlive.co.in/newsleader/index.m3u8
 https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 #EXTINF:-1 group-title="News",News Live Bangla (576p)
 https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
-#EXTINF:-1 group-title="News",News Marathi 24x7 (720p)
-https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
 #EXTINF:-1 group-title="News",News Nation (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 group-title="News",News Nation 81 (1080p)
+https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8
 #EXTINF:-1 group-title="News",News of the World Arabic (720p)
 https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 #EXTINF:-1 group-title="News",News of the World Spanish (1080p)
@@ -10861,14 +10815,14 @@ https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master
 https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News",News18 India (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 group-title="News",News18 Kerala (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News",News18 Madhya Pradesh/Chhattisgarh (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News",News18 Marathi (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="India",News18 Marathi Ⓨ
 https://www.youtube.com/@News18Marathi/live
+#EXTINF:-1 group-title="News",News18 Odia (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News",News18 Punjab/Haryana/Himachal (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News",News18 Rajasthan (1080p)
@@ -10921,6 +10875,8 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 group-title="General",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
+#EXTINF:-1 group-title="General",Nexo TV
+https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 #EXTINF:-1 group-title="Movies;Music",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 group-title="General",Nexus TV (576p)
@@ -11107,8 +11063,6 @@ https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="General",Norte TV (720p) [Not 24/7]
 https://ntvcanal7.com.ar:81/dash/stream.mpd
-#EXTINF:-1 group-title="Entertainment",Nortena Tv (576p)
-https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Nortevision (1080p)
 http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 group-title="Series",Nosey (1080p)
@@ -11139,22 +11093,22 @@ https://jmp2.uk/stvp-USBD1700014QU
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 group-title="General",Notioi TV (1080p)
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 group-title="General",Notisur TV [Not 24/7]
-https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nour Al Koddass (406p) [Not 24/7]
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Nour Al Sharq (576p)
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nour El Shabeb (720p)
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nour Mariam (576p)
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 group-title="Religious",Noursat (576p)
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Noursat English (576p)
-https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Nova (Serbia) (1080p)
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 group-title="Czech Republic",Nova Action
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+#EXTINF:-1 group-title="Czech Republic",Nova Cinema
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 #EXTINF:-1 group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 group-title="General",Nova TV (1080p)
@@ -11243,8 +11197,6 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="Education",NRWision (1080p)
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 group-title="News",NSC9 News (1080p)
-https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 group-title="General",NSTV (1080p)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 group-title="Entertainment",NTC TV (720p)
@@ -11339,8 +11291,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
 #EXTINF:-1 group-title="Series",Numeros
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
-#EXTINF:-1 group-title="Italy",Nuova Tv 1
-https://nuovatv.net:8443/tv/stream.m3u8
 #EXTINF:-1 group-title="General",Nurafshon TV
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Nusantara TV (1080p)
@@ -11351,8 +11301,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 group-title="General",NVK Sakha (1080p) [Not 24/7]
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 group-title="General",NZK Television (720p)
-https://eu1.servers10.com:8081/8258/index.m3u8
 #EXTINF:-1 group-title="General",NZTV
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 #EXTINF:-1 group-title="General",O Dia TV
@@ -11381,8 +11329,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951404/hls/playlist.m3u8?ads.xumo_c
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Oasis TV (Colombia) (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Oasis TV (Paraguay) (720p)
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 group-title="General",Oberpfalz TV (1080p)
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1 group-title="Korea",OBS TV
@@ -11405,10 +11351,14 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 group-title="Religious",OCN TV
 https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+#EXTINF:-1 group-title="General",Odisea TV (720p)
+https://v2.tustreaming.cl/odiseatv/index.m3u8
 #EXTINF:-1 group-title="Culture",Odisha TV (720p)
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF:-1 group-title="Austria",oe24
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+#EXTINF:-1 group-title="Travel",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Culture",Ofogh TV
 https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Oggy e as Baratas Tontas
@@ -11591,8 +11541,8 @@ https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 group-title="Greece",Open TV
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
-#EXTINF:-1 group-title="REALITY",Operation Repo
-https://amg02042-amg02042c26-vizio-us-4381.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-operationrepo-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d+&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDMwMzA3MDg0M30
+#EXTINF:-1 group-title="LocalNow🇺🇸: Reality TV",Operation Repo
+https://s8host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/36-90-4371.m3u8?ads.cdnhost=s8host3.localnow.api.cms.amdvids.com&ads.playbackid=A25213BD-1D57-42BD-9EEE-FAB4BB048E4C&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A25213BD-1D57-42BD-9EEE-FAB4BB048E4C&ads.n4=content_name&ads.v4=Operation%20Repo&ads.n21=content_provider&ads.v21=operation-repo&ads.n22=app_name&ads.v22=&ads.n23=content_type&ads.v23=channel&ads.n24=device_type&ads.v24=&ads.n25=content_producer_name&ads.v25=OTT%20Studio%20LLC&ads.n26=channel_ext_id&ads.v26=&ads.n27=app_bundle&ads.v27=&ads.n28=channel_genre&ads.v28=Reality%20TV%2CReality&ads.n29=gpp_sid&ads.v29=&ads.n30=content_custom_2_param&ads.v30=AMDB013536&ads.n31=network_name&ads.v31=operation-repo&ads.n32=pos&ads.v32=midroll&ads.n33=channel_language&ads.v33=en&ads.n34=channel_brand_id&ads.v34=AMDB013536&ads.n35=content_livestream&ads.v35=1&ads.n36=w&ads.v36=1920&ads.n37=channel_corp&ads.v37=OTT%20Studio%20LLC&ads.n38=gpp&ads.v38=&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=did&ads.v40=&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=app_store_url&ads.v42=&ads.n43=ip&ads.v43=185.217.168.164&ads.n44=channel_id&ads.v44=A25213BD-1D57-42BD-9EEE-FAB4BB048E4C&ads.n45=content_custom_1_param&ads.v45=A25213BD-1D57-42BD-9EEE-FAB4BB048E4C&ads.n46=channel_name&ads.v46=Operation%20Repo&ads.n47=app_version&ads.v47=0.0.0&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=channel_company_id&ads.v49=AMDP500517&ads.n50=ifa_type&ads.v50=&ads.n51=channel_title&ads.v51=Operation%20Repo&ads.n52=url&ads.v52=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n53=device_make&ads.v53=&ads.n54=device_model&ads.v54=&ads.n55=us_privacy&ads.v55=1YNY&ads.n56=dnt&ads.v56=&ads.n57=channel_rating&ads.v57=TV-PG&ads.n58=h&ads.v58=1080
 #EXTINF:-1 group-title="News",Ora News (720p)
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 group-title="Music",Orange Bangla TV (720p)
@@ -11611,6 +11561,8 @@ https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="General",Oromar TV (1080p)
 http://45.224.97.181:9999/Oromar/index.m3u8
+#EXTINF:-1 group-title="General",Oromar TV+ (720p)
+https://stream.oromar.tv/hls/camriva/index.m3u8
 #EXTINF:-1 group-title="General",Oroszlanyi Varosi Televizio (720p)
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",ORTS TV (480p) [Not 24/7]
@@ -11619,6 +11571,8 @@ https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
 https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Movies",Oscar Movies Bhojpuri (720p)
 https://cdn.pishow.tv/ott/live/233/master.m3u8
+#EXTINF:-1 group-title="General",Osetiya-Iryston (1080p)
+https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 group-title="General",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Ostrosyuzhetnoye HD (1080p)
@@ -11675,8 +11629,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/stvp-US1900005VB
 #EXTINF:-1 group-title="General",Ozdi Varosi TV (720p) [Not 24/7]
 http://stream.nmih.hu:7980/live.m3u8
-#EXTINF:-1 group-title="General",Ozono TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 #EXTINF:-1 group-title="Music",P2M TV (720p)
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 group-title="General",Pac 12 (AU)
@@ -11713,10 +11665,14 @@ https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 group-title="General",Panche Television
 https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
+#EXTINF:-1 group-title="Undefined",Panico (576p)
+http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTINF:-1 group-title="Music",Panik TV (1080p)
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Panjab TV (576p)
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
+#EXTINF:-1 group-title="General",Pannon TV (648p)
+https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 group-title="Music",Panorama FM (1080p)
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Paradise
@@ -11965,6 +11921,8 @@ https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 group-title="Belarus",Pervyy Muzykal'nyy BY Ⓢ
 http://rtmp.one.by:1200
+#EXTINF:-1 group-title="News",Pervyy Respublikanskiy
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Series",Pes (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Pet Club TV (1080p)
@@ -12351,6 +12309,8 @@ https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8
 https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
 #EXTINF:-1 group-title="Series",Pluto TV Historische Serien
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 group-title="Documentary",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 group-title="Series",Pluto TV Hometown Drama
 https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
 #EXTINF:-1 group-title="VOD Movies (EN)",Pluto TV Horror
@@ -12959,8 +12919,6 @@ https://mc.servidor.stream:19360/8244/8244.m3u8
 https://cdn.bestream.io/prime/prime.m3u8
 #EXTINF:-1 group-title="Undefined",Prime Asia TV (1080p)
 http://primeasia.selfip.net/Samsung/index.m3u8
-#EXTINF:-1 group-title="News",Prime News (1080p)
-https://stream.ottlive.co.in/primenews/index.m3u8
 #EXTINF:-1 group-title="News",Prime9 News (1080p)
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 group-title="General",Primer TV (1080p)
@@ -12991,8 +12949,8 @@ https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1 group-title="General",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
-#EXTINF:-1 group-title="REALITY",Project Runway
-https://amg02189-spyglassmediagroup-amg02189c1-vizio-us-513.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAyODIyOTU5Mn0
+#EXTINF:-1 group-title="Reality Competition",Project Runway
+https://jmp2.uk/stvp-USBB3500004RC
 #EXTINF:-1 group-title="General",Project Runway (CA) Geo
 https://amg02189-amg02189c1-lg-ca-5820.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",PromarTV (576p)
@@ -13045,8 +13003,6 @@ https://www.youtube.com/watch?v=6KlRR_DGhmI
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
 #EXTINF:-1 group-title="News",PTV (Ukraine) (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Public 4K TV HD
-http://103.180.240.141:8080/hls/main1/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Public Movies (576p)
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 group-title="Music",Public Music (576p)
@@ -13121,8 +13077,8 @@ https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 #EXTINF:-1 group-title="Culture",Qausain TV (720p)
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
-#EXTINF:-1 group-title="General",Qazaqstan (576p)
-https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Kazakhstan",Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 group-title="General",Qazaqstan HD (1080p)
 http://stream.mcquack.net/71/index.m3u8
 #EXTINF:-1 group-title="General",Qazaqstan International
@@ -13297,8 +13253,6 @@ https://eu1.servers10.com:8081/8116/index.m3u8
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radio Chalaca
 https://servilive.com:3414/hybrid/play.m3u8
-#EXTINF:-1 group-title="General",Radio Chiloe (720p)
-https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
 #EXTINF:-1 group-title="General",Radio Coatan Canal 21
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 group-title="Music",Radio Colmenar 92.5 FM
@@ -13397,8 +13351,6 @@ http://rtmp.streams.ovh:1935/radionapoliemme/radionapoliemme/playlist.m3u8
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Ireland",Radio Nova
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
-#EXTINF:-1 group-title="General",Radio Nuble (720p)
-https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:-1 group-title="Undefined",Radio Number One (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radio Onda Digital (1080p)
@@ -13429,6 +13381,8 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 https://tvd-rit80.fluid.stream/Ritmo80TV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Radio Ritmo FM (1080p) [Not 24/7]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 group-title="Music",Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 group-title="General;Music",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 group-title="General;Music",Radio Romania Targu Mures (576p)
@@ -13437,6 +13391,8 @@ https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 group-title="Music",Radio Rumba TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+#EXTINF:-1 group-title="Music",Radio San Cristobal 88.7 FM
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 #EXTINF:-1 group-title="General",Radio San Gabriel (720p)
 https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
 #EXTINF:-1 group-title="Music",Radio Shanson (720p) [Not 24/7]
@@ -13483,6 +13439,8 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 group-title="Religious",Radio TV El Arca del Pacto (1080p)
 https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+#EXTINF:-1 group-title="Undefined",Radio TV Neuquen (720p) [Not 24/7]
+https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 group-title="Italy",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 #EXTINF:-1 group-title="General",Radio UNIACC (720p)
@@ -13491,8 +13449,6 @@ https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
 https://videostream.chileservidores.com:8081/universal/index.m3u8
 #EXTINF:-1 group-title="Culture;Education;Entertainment",Radio Universitaria San Andres (720p)
 https://edge.enhdtv.com/8054/index.m3u8
-#EXTINF:-1 group-title="News",Radio Uno Tacna (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 group-title="General",Radio UP (1080p)
 https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 #EXTINF:-1 group-title="General",Radio USACH (720p)
@@ -13647,16 +13603,12 @@ https://cloudvideo.servers10.com:8081/8072/index.m3u8
 https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1 group-title="Undefined",Ramdhenu (576p)
 https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
-#EXTINF:-1 group-title="Italy",Ran Friul
-https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RAN1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Rang (576p)
 https://cdn.pishow.tv/ott/live/10017/master.m3u8
 #EXTINF:-1 group-title="Undefined",Rapsodia TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0
-#EXTINF:-1 group-title="General",RASD TV (1080i)
-https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
 #EXTINF:-1 group-title="Music",Rashid AlMajed (1080p)
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
 #EXTINF:-1 group-title="Religious",RasoulallahTv (1080p)
@@ -13793,8 +13745,6 @@ https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="General",Red Rubi (720p)
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
-#EXTINF:-1 group-title="News",Red TV Lebanon (1080p)
-https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Shop",Red TV Shop (720p)
 https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 group-title="General",Red TVE Ventanas (432p)
@@ -13875,8 +13825,6 @@ https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
 https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
 #EXTINF:-1 group-title="General",Renome TV (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1 group-title="News",Reporter (720p)
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 group-title="News",Reporter TV (576p)
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 group-title="General",Reportero TV [Not 24/7]
@@ -13963,8 +13911,6 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 group-title="Family;Kids",RiC (1080p)
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Riddim & Hope TV
-https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Comedy",Ridiculousness (United States)
 https://jmp2.uk/plu-6996296087742204bff43147.m3u8
 #EXTINF:-1 group-title="Comedy",Ridiculousness (Germany) (720p)
@@ -14069,8 +14015,8 @@ https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
 http://51.75.127.199:3141/romedynow/index.m3u8
 #EXTINF:-1 group-title="Undefined",Ronahi TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 group-title="Undefined",Rongeen TV (720p)
-https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 group-title="Italy",Rossini Tv
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
 #EXTINF:-1 group-title="Undefined",Rotana Radio Jordan Studio (1080p) [Not 24/7]
 http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 group-title="Undefined",Rotana Tarab Jordan City View (720p) [Not 24/7]
@@ -14087,8 +14033,6 @@ https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
 https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Royalworld
 https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
-#EXTINF:-1 group-title="News",Rozana Spokesman (1080p)
-https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTINF:-1 group-title="General",RPL Woerden (720p)
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 #EXTINF:-1 group-title="News",RPP TV (1080p)
@@ -14139,8 +14083,6 @@ http://stream.mcquack.net/164/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
 #EXTINF:-1 group-title="Religious",RTH-TV2 Gospel (720p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
-#EXTINF:-1 group-title="Hong Kong",RTHK TV 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="General",RTI 1 (1080p)
 https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
 #EXTINF:-1 group-title="Italy",RTI Calabria
@@ -14183,22 +14125,22 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RTN (United States)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1 group-title="Undefined",RTN (Argentina) (720p) [Not 24/7]
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 group-title="Italy",RTN Napoli
 https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
 #EXTINF:-1 group-title="General",RTP (Bolivia) (576p)
 https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 group-title="Undefined",RTP (Italy) (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 group-title="General",RTP (Peru) (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",RTQ Queretaro (1080p)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 group-title="General",RTR-Planeta (576p)
 https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="General",RTR-Planeta Asia
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 group-title="Undefined",RTRS plus (576p) [Not 24/7]
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",RTRS TV (576p) [Not 24/7]
+https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 group-title="General",RTRTV (1080p)
 https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Serbia",RTS 1
@@ -14359,14 +14301,8 @@ https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 #EXTINF:-1 group-title="Undefined",RVTV (1080p)
 https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
-#EXTINF:-1 group-title="General",RVTV Civic (720p)
-https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",RVTV Grants Pass (720p)
-https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",RVTV Prime (720p)
 https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",RVTV Voices (720p)
-https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",Rwanda TV (480p) [Not 24/7]
 http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 #EXTINF:-1 group-title="General",Rwenzori TV
@@ -14415,8 +14351,8 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b2500
 https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Sabor TV (720p)
 https://v1.tustreaming.cl/sabortv/index.m3u8
-#EXTINF:-1 group-title="Comedy",Sabrina the Teenage Witch
-https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
+#EXTINF:-1 group-title="Comedy",Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1 group-title="Comedy",Sabrina the Teenage Witch DK
 https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
 #EXTINF:-1 group-title="Comedy",Sabrina the Teenage Witch NO
@@ -14457,8 +14393,6 @@ https://www.youtube.com/channel/UCGn3y_geehf1ZgAlwtbNt2w/live
 https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8
 #EXTINF:-1 group-title="Undefined",Sahand TV
 https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
-#EXTINF:-1 group-title="News",Sahara 24 (1080p)
-https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 group-title="Undefined",Sai TV (576p)
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 group-title="Anime & Gaming",Sailor Moon
@@ -14509,6 +14443,8 @@ https://live.bradosti.net/live/samaraweb_playlist.m3u8
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 group-title="Undefined",Samiaki TV (540p) [Not 24/7]
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="General",Sampit TV (720p) [Not 24/7]
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 group-title="Action & Drama",Samsung Television Network
 https://jmp2.uk/stvp-US300068X7
 #EXTINF:-1 group-title="Nature, History & Science",Samsung Wild Life
@@ -14847,12 +14783,6 @@ https://stream.shams.tv/hls/stream.m3u8
 http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 group-title="Undefined",Shant TV (1080p)
 http://stream.mcquack.net/37/index.m3u8
-#EXTINF:-1 group-title="Religious",Sharjah 2 (1080p)
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",Sharjah Radio (1080p)
-https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Sharjah Radio Quran (1080p)
-https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Sharjah TV (1080p)
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="EN ESPAÑOL",Shark Tank Latino
@@ -15057,12 +14987,6 @@ https://amg16109-shgliving-amg16109c1-lg-in-2094.playouts.now.amagi.tv/playlist/
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 group-title="Malta",Smash TV
 https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
-#EXTINF:-1 group-title="Legislative",SMCTV Channel 23 (720p)
-https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Education",SMCTV Channel 24 (720p)
-https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",SMCTV Channel 25 (720p)
-https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 group-title="Documentary",Smithsonian Channel Pluto TV LatAm
@@ -15117,12 +15041,12 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 group-title="General",SOL2 (1080p)
 https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Solar Television (720p)
-https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="Music",Solo Bailalo (480p)
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+#EXTINF:-1 group-title="General",Solo TV
+https://sproxy.solotv.cl/hls/live/fhd.m3u8
 #EXTINF:-1 group-title="Chile",SoloTV
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1 group-title="Undefined",Solovyov Live (1080p)
@@ -15137,6 +15061,8 @@ https://stream.solmediaeg.com/soltv/soltv.m3u8
 https://cd198.anystream.uk:9092/iqapp/s4ne/playlist.m3u8
 #EXTINF:-1 group-title="Somalia",Somaliland National TV Ⓨ
 https://www.youtube.com/c/SLNTVLIVESTREAM/live
+#EXTINF:-1 group-title="Culture;Family;General",Somos Entre Rios (360p)
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 group-title="General",Somos TV (720p) [Not 24/7]
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Songdew TV (396p)
@@ -15441,8 +15367,6 @@ https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 http://51.75.127.199:3141/starbharat/index.m3u8
 #EXTINF:-1 group-title="News",Star Bharat (India) HD (1080p)
 http://51.75.127.199:3141/starbharathd/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Star Bharat (United Kingdom) (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 group-title="Movies;Series",Star Channel (Chile) (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Movies;Series",Star Channel (Colombia) (1080p)
@@ -15519,8 +15443,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09ed
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 group-title="Movies;Series",Star Trek: Voyager (Germany) IT
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
-#EXTINF:-1 group-title="Entertainment",Star TV (Moldova)
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
+#EXTINF:-1 group-title="Mongolia",Star TV
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
 #EXTINF:-1 group-title="Undefined",Star TV (Turkiye) (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 group-title="Entertainment",Star Utsav (576p)
@@ -15537,8 +15461,6 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 http://176.118.197.101/START_AIR/index.m3u8
 #EXTINF:-1 group-title="News",Start TV (480p)
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="Movies",START World (576p)
-https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Movies",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 group-title="Comedy",Starz Comedy (1080p)
@@ -15693,8 +15615,6 @@ http://tshift-1.telecoma.tv/sts/index.m3u8
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 group-title="Undefined",STS International (576p)
 http://178.134.1.158:8081/CTC/index.m3u8
-#EXTINF:-1 group-title="Kids",STS kids International (576p)
-https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Music",StuBru (1080p)
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 #EXTINF:-1 group-title="General",Studio + TV (1080p)
@@ -15703,8 +15623,6 @@ https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Studio One + (720p)
 https://cdn.pishow.tv/ott/live/276/master.m3u8
-#EXTINF:-1 group-title="General",Studio Pasco TV (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Studio Rheden (1080p)
 https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
 #EXTINF:-1 group-title="Undefined",Studio Universal Latin America (1080p)
@@ -15999,8 +15917,6 @@ https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TalkTV (1080p)
 https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="General",TAM TV
-https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 #EXTINF:-1 group-title="Undefined",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies",Tamasha
@@ -16011,20 +15927,14 @@ https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
 #EXTINF:-1 group-title="Undefined",TamilVision-TV (1080p)
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
-#EXTINF:-1 group-title="LOCAL CHANNELS",Tampa Bay 28
-https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippswfts-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTAyOTQ0NX0
+#EXTINF:-1 group-title="LocalNow🇺🇸: More Cities",Tampa Bay 28
+https://s6host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config8/playlist.m3u8?ads.cdnhost=s6host2.localnow.api.cms.amdvids.com&ads.playbackid=D50949AB-01FD-428C-ABEB-82671B72CF8F&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D50949AB-01FD-428C-ABEB-82671B72CF8F&ads.n4=content_name&ads.v4=EPG%20%7C%20WFTS%20Tampa%2C%20FL&ads.n21=content_custom_3_param&ads.v21=channel&ads.n22=content_custom_2_param&ads.v22=AMDB012108&ads.n23=url&ads.v23=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n24=device_make&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=device_type&ads.v26=&ads.n27=us_privacy&ads.v27=1YNY&ads.n28=channel_id&ads.v28=D50949AB-01FD-428C-ABEB-82671B72CF8F&ads.n29=cust_devicename&ads.v29=desktop_web&ads.n30=channel_company_id&ads.v30=AMDP500135&ads.n31=ip&ads.v31=185.217.168.164&ads.n32=content_livestream&ads.v32=1&ads.n33=content_provider&ads.v33=scripps_wfts&ads.n34=content_custom_1_param&ads.v34=D50949AB-01FD-428C-ABEB-82671B72CF8F&ads.n35=channel_brand_id&ads.v35=AMDB012108&ads.n36=ifa_type&ads.v36=&ads.n37=channel_language&ads.v37=en&ads.n38=channel_ext_id&ads.v38=61fad74ee238cf09f3490712&ads.n39=pos&ads.v39=midroll&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=channel_corp&ads.v41=Scripps%20Media%20INC&ads.n42=gpp_sid&ads.v42=&ads.n43=channel_title&ads.v43=EPG%20%20WFTS%20Tampa%2C%20FL&ads.n44=gpp&ads.v44=&ads.n45=h&ads.v45=1080&ads.n46=channel_name&ads.v46=EPG%20%20WFTS%20Tampa%2C%20FL&ads.n47=did&ads.v47=&ads.n48=content_producer_name&ads.v48=Scripps%20Media%20INC&ads.n49=app_store_url&ads.v49=&ads.n50=app_bundle&ads.v50=&ads.n51=device_model&ads.v51=&ads.n52=network_name&ads.v52=scripps_wfts&ads.n53=dnt&ads.v53=&ads.n54=channel_rating&ads.v54=TV-PG&ads.n55=channel_genre&ads.v55=News&ads.n56=w&ads.v56=1920&ads.n57=content_type&ads.v57=channel&ads.n58=app_name&ads.v58=
 #EXTINF:-1 group-title="Kids",Tamyr (576p)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 group-title="General",Tanasuh TV (1080p)
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
 #EXTINF:-1 group-title="Mongolia",Tanin Mehehgui TV
 https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
-#EXTINF:-1 group-title="Undefined",TAP TV Channel 23 (720p)
-https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",TAP TV Channel 24 (720p)
-https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",TAP TV Channel 25 (720p)
-https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Finland",TapahtumaTV Eveo
 https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 #EXTINF:-1 group-title="Music",Tarab (1080p)
@@ -16099,6 +16009,8 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
 #EXTINF:-1 group-title="Music",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 group-title="Undefined",TDK 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TDN Medios (720p) [Not 24/7]
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
 #EXTINF:-1 group-title="Spain",tdp
@@ -16143,8 +16055,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619405c
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Tehzeeb TV (720p)
 https://cdn.pishow.tv/ott/live/239/master.m3u8
-#EXTINF:-1 group-title="General",TELE 6 (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="Undefined",Tele Abruzzo (384p)
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 group-title="General",Tele Antillas (1080p)
@@ -16161,8 +16073,6 @@ https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
 #EXTINF:-1 group-title="General",Tele Chiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 group-title="Italy",Tele Cupole
-https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8
 #EXTINF:-1 group-title="General",Tele Dajabon TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTINF:-1 group-title="Music",Tele Dominicana TV (720p) [Not 24/7]
@@ -16245,16 +16155,12 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TeleBendicion (720p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
-#EXTINF:-1 group-title="General",Telecanal 12 (720p) [Not 24/7]
-https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Telecanal 28 (1080p) [Not 24/7]
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General",Telecaribe (1080p)
 http://138.121.15.230:9002/TELECARIBE/index.m3u8
 #EXTINF:-1 group-title="News",TeleCauquenes (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Teleceiba (720p)
-https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 group-title="General",Telecentro (Venezuela) (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 #EXTINF:-1 group-title="General",TeleCibaoHD (720p) [Not 24/7]
@@ -16303,8 +16209,6 @@ http://190.61.47.54:8000/play/a029/index.m3u8
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1 group-title="General",Teleimpacto (720p) [Not 24/7]
 https://vpss2003.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 group-title="General",Teleislas (720p)
-http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="General",Telekanal Krasnodar (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",Telekanal RAI (480p)
@@ -16373,6 +16277,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951226/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 group-title="General",Telemundo WCAU (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
+#EXTINF:-1 group-title="General",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8
 #EXTINF:-1 group-title="General",Telemundo WKAQ-TV (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 group-title="General",Telemundo WTMO-CD (720p)
@@ -16391,8 +16297,6 @@ https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 http://38.134.250.110:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Family;General",Telenovisa43 (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Undefined",TeleOnce (1080p)
-https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Telepace 1 (1080p)
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Culture;Religious",Telepace 2 (1080p)
@@ -16427,8 +16331,6 @@ https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:-1 group-title="Religious",TeleSanDomenico (1080p)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General",Telesangil (720p)
-https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Teleselva (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 #EXTINF:-1 group-title="General",TELESIGLO (1080p) [Not 24/7]
@@ -16447,6 +16349,8 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 group-title="News",Telesur HD (1080p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="General",Telesystem TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 #EXTINF:-1 group-title="General",Teletica 7 (1080p)
 http://190.61.101.11:7050/play/a07t/index.m3u8
 #EXTINF:-1 group-title="Undefined",TeleTicino (720p)
@@ -16463,14 +16367,14 @@ https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 https://hls.tvabierta.net/hls/029.m3u8
 #EXTINF:-1 group-title="General",Televen (1080p)
 http://38.134.250.110:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="General",Telever (1080p) [Not 24/7]
+https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 group-title="Religious",Televida (Chile) (1080p)
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Televida (Dominican Republic) (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/televida/playlist.m3u8
 #EXTINF:-1 group-title="VOD Italy",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Television Aranda (720p)
-https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 group-title="Undefined",Television Canaria (1080p)
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",Television Caribbean (1080p)
@@ -16483,10 +16387,6 @@ https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 #EXTINF:-1 group-title="General",Television Metropolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 group-title="General",Television Metropolis 19.2 (1080p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-#EXTINF:-1 group-title="General",Television Olanchana (1080p)
-https://viewhn.com/canal30/live/playlist.m3u8
 #EXTINF:-1 group-title="General",Television Tarapoto (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 #EXTINF:-1 group-title="Argentina",Televisión Pública Ⓨ
@@ -16501,6 +16401,8 @@ https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 group-title="General",Televizija M (1080p)
 https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Bosnia and Herzegovina",Televizija Republike Srpske (RTRS)
+https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 group-title="Business",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 group-title="Undefined",Telewizja iTTV (1080p)
@@ -16669,8 +16571,8 @@ https://amg00136-wbd-amg00136c69-vizio-us-9167.playouts.now.amagi.tv/playlist/am
 https://amg00136-wbd-amg00136c69-lg-us-5718.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO🇺🇸: Home & Design",The Design Network
 https://dbrb49pjoymg4.cloudfront.net/10001/99991390/hls/playlist.m3u8?ads.xumo_channelId=99991390&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheDesignNetwork&ads.csid=xumo_[PLATFORM]_TheDesignNetwork_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1835&ads.xumo_contentName=TheDesignNetwork&ads.xumo_providerId=1835&ads.xumo_providerName=TheDesignNetwork&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991390&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-#EXTINF:-1 group-title="LocalNow🇺🇸: New On Local Now",The Dick Van Dyke Show
-https://s11host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/channel-hls/v2/30c6faf68b51472b/88881508/master.m3u8?ads.cdnhost=s11host4.localnow.api.cms.amdvids.com&ads.playbackid=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n4=content_name&ads.v4=The%20Dick%20Van%20Dyke%20Show&ads.n21=content_livestream&ads.v21=1&ads.n22=dnt&ads.v22=&ads.n23=device_model&ads.v23=&ads.n24=content_custom_1_param&ads.v24=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n25=ip&ads.v25=185.217.168.164&ads.n26=channel_company_id&ads.v26=AMDP500105&ads.n27=channel_rating&ads.v27=TV-PG&ads.n28=did&ads.v28=&ads.n29=content_custom_3_param&ads.v29=channel&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=gpp_sid&ads.v31=&ads.n32=channel_corp&ads.v32=FilmRise&ads.n33=app_bundle&ads.v33=&ads.n34=w&ads.v34=1920&ads.n35=device_type&ads.v35=&ads.n36=content_type&ads.v36=channel&ads.n37=app_version&ads.v37=0.0.0&ads.n38=channel_id&ads.v38=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n39=app_name&ads.v39=&ads.n40=content_producer_name&ads.v40=FilmRise&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n42=content_custom_2_param&ads.v42=AMDB013719&ads.n43=app_store_url&ads.v43=&ads.n44=content_provider&ads.v44=the-dick-van-dyke-show&ads.n45=channel_brand_id&ads.v45=AMDB013719&ads.n46=device_make&ads.v46=&ads.n47=us_privacy&ads.v47=1YNY&ads.n48=channel_title&ads.v48=The%20Dick%20Van%20Dyke%20Show&ads.n49=channel_name&ads.v49=The%20Dick%20Van%20Dyke%20Show&ads.n50=channel_language&ads.v50=en&ads.n51=ifa_type&ads.v51=&ads.n52=cust_devicename&ads.v52=desktop_web&ads.n53=h&ads.v53=1080&ads.n54=network_name&ads.v54=the-dick-van-dyke-show&ads.n55=gpp&ads.v55=&ads.n56=channel_genre&ads.v56=Comedy&ads.n57=pos&ads.v57=midroll&ads.n58=channel_ext_id&ads.v58=
+#EXTINF:-1 group-title="LocalNow🇺🇸: Classic TV",The Dick Van Dyke Show
+https://s11host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/channel-hls/v2/30c6faf68b51472b/88881508/master.m3u8?ads.cdnhost=s11host4.localnow.api.cms.amdvids.com&ads.playbackid=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n4=content_name&ads.v4=The%20Dick%20Van%20Dyke%20Show&ads.n21=pos&ads.v21=midroll&ads.n22=channel_name&ads.v22=The%20Dick%20Van%20Dyke%20Show&ads.n23=channel_title&ads.v23=The%20Dick%20Van%20Dyke%20Show&ads.n24=content_type&ads.v24=channel&ads.n25=content_custom_2_param&ads.v25=AMDB013719&ads.n26=content_provider&ads.v26=the-dick-van-dyke-show&ads.n27=url&ads.v27=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n28=channel_genre&ads.v28=Comedy&ads.n29=ip&ads.v29=185.217.168.164&ads.n30=gpp&ads.v30=&ads.n31=ifa_type&ads.v31=&ads.n32=channel_brand_id&ads.v32=AMDB013719&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=device_make&ads.v34=&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=w&ads.v36=1920&ads.n37=app_store_url&ads.v37=&ads.n38=channel_corp&ads.v38=FilmRise&ads.n39=content_producer_name&ads.v39=FilmRise&ads.n40=network_name&ads.v40=the-dick-van-dyke-show&ads.n41=us_privacy&ads.v41=1YNY&ads.n42=h&ads.v42=1080&ads.n43=dnt&ads.v43=&ads.n44=channel_ext_id&ads.v44=&ads.n45=gpp_sid&ads.v45=&ads.n46=device_model&ads.v46=&ads.n47=app_version&ads.v47=0.0.0&ads.n48=channel_rating&ads.v48=TV-PG&ads.n49=cust_devicename&ads.v49=desktop_web&ads.n50=device_type&ads.v50=&ads.n51=app_bundle&ads.v51=&ads.n52=did&ads.v52=&ads.n53=content_livestream&ads.v53=1&ads.n54=content_custom_1_param&ads.v54=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n55=channel_id&ads.v55=30A3BFFC-A9BE-44F0-9EF4-69B96AA51F43&ads.n56=channel_language&ads.v56=en&ads.n57=app_name&ads.v57=&ads.n58=channel_company_id&ads.v58=AMDP500105
 #EXTINF:-1 group-title="General",The Dog Whisperer with Cesar Millan (US) Geo
 https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="FOOD + TRAVEL",The Emeril Lagasse Channel
@@ -16985,8 +16887,6 @@ https://jmp2.uk/stvp-USBB1000001XP
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_[PLATFORM]_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991341&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 #EXTINF:-1 group-title="Religious",TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
-#EXTINF:-1 group-title="News",TNP News (1080p)
-https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TNT (576p)
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TNT International Belarus (1080p)
@@ -16997,8 +16897,6 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
-#EXTINF:-1 group-title="Entertainment",TNT4 International (576p)
-https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Undefined",TNV-Planet (576p)
 https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Undefined",TNV-Tatarstan (720p)
@@ -17147,12 +17045,6 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 group-title="Culture;Entertainment;Music;News",Tra Vinh TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=91
-#EXTINF:-1 group-title="Music",Trace Africa (1080p)
-https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Afrikora (1080p)
-https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Ayiti (1080p)
-https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 group-title="General",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="General",Trace Brazuca (AT) Geo
@@ -17173,20 +17065,6 @@ https://trace-brazuca-lg-it.amagi.tv/playlist.m3u8
 https://trace-brazuca-lg-mx.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Trace Brazuca HD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="Music",Trace Caribbean (1080p)
-https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:-1 group-title="Music;Religious",Trace Gospel (1080p)
-https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 group-title="Music;Religious",Trace Gospel Nigeria and East Africa (1080p)
-https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 group-title="Music;Religious",Trace Gospel Southern Africa (1080p)
-https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Ivoire (1080p)
-https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Jama (1080p)
-https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Kitoko (1080p)
-https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 group-title="General",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="General",Trace Latina (AT) Geo
@@ -17203,16 +17081,6 @@ https://trace-latina-lg-it.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/tracetvAA-trace-latina-lg-es/playlist.m3u8
 #EXTINF:-1 group-title="VOD Italy",Trace Latina Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="Music",Trace Mboa (1080p)
-https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Muzika (1080p)
-https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Mziki (1080p)
-https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Naija (1080p)
-https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Ngoma (1080p)
-https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1 group-title="Sports",Trace Sport Stars (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Trace Sport Stars (CH) Geo
@@ -17225,16 +17093,10 @@ https://trace-sportstars-lg-it.amagi.tv/playlist.m3u8
 https://trace-sportstars-lg-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Trace Sport Stars Russia (720p)
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports",Trace Sport Stars SD
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 group-title="General",Trace Sports Stars
 https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Trace Sports Stars alt
 https://tracetv-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Trace Toca (1080p)
-https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace UK (1080p)
-https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 #EXTINF:-1 group-title="Music",Trace Urban (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Trace Urban (DE) Geo
@@ -17245,20 +17107,8 @@ https://trace-urban-lg-it.amagi.tv/playlist.m3u8
 https://trace-urban-lg-mx.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="General",Trace Urban (UK) Geo
 https://trace-urban-lg-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban Africa Franco (1080p)
-https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban Caribbean And Indian Ocean (1080p)
-https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban HD (1080p)
-https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban International HD (1080p)
-https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
-#EXTINF:-1 group-title="Music",Trace Urban Southern Africa (1080p)
-https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 #EXTINF:-1 group-title="VOD Italy",Trace Urban Ⓖ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
-#EXTINF:-1 group-title="Music",Trace Vanilla Islands (1080p)
-https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 group-title="Music",Traditional TV (1080p)
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 group-title="General",Trailers (IT)
@@ -17415,8 +17265,6 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 group-title="Religious",Tulja Bhavani (576p)
 http://51.75.127.199:3141/tuljabhavani/index.m3u8
-#EXTINF:-1 group-title="Undefined",Turan TV (576p)
-https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Italy",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 group-title="Music",Turbo Mix Radio TV (720p)
@@ -17443,8 +17291,6 @@ https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 group-title="Italy",Tuscia Sabina 2000Tv
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
-#EXTINF:-1 group-title="Education",TUTV (1080p)
-https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV 1 Oberosterreich (1080p)
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 group-title="General",TV 10 San Juan (720p) [Not 24/7]
@@ -17499,8 +17345,6 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 http://45.162.64.114/TV_APARECIDA/index.m3u8
 #EXTINF:-1 group-title="Albania",TV Apollon Ⓢ
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
-#EXTINF:-1 group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 group-title="News",TV Arta (720p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 group-title="Legislative",TV Assembleia Piaui
@@ -17511,6 +17355,8 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 group-title="Undefined",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 group-title="General",TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 group-title="General",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",TV BRICS Chinese (1080p)
@@ -17553,8 +17399,6 @@ http://168.196.127.137:6001/play/a03n/index.m3u8
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 group-title="General",TV Color Canal 36 (720p)
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 group-title="General",TV Comunitaria (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 group-title="Undefined",TV Copan (720p) [Not 24/7]
@@ -17613,8 +17457,8 @@ http://45.162.64.114/GAZETA/index.m3u8
 https://serversv.com:8080/hls/tvgetsemani.m3u8
 #EXTINF:-1 group-title="Entertainment",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL (1080p)
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Undefined",TV Guara (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Higuey Digital (720p) [Not 24/7]
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 #EXTINF:-1 group-title="General",TV Hispanic [Not 24/7]
@@ -17633,6 +17477,8 @@ https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 https://air.star.lv/TV_Jurmala_multistream/index.m3u8
 #EXTINF:-1 group-title="Undefined",TV Justica (720p)
 http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 group-title="Entertainment",TV Kaliente (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Keszthely (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV Kujawy (576p) [Not 24/7]
@@ -17679,8 +17525,6 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV Mana Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 group-title="General",TV MAR (720p)
-https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Mar La Paz (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Mar Los Cabos (1080p)
@@ -17701,6 +17545,8 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Monaco (1080p)
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 group-title="Undefined",TV Mu (720p) [Not 24/7]
+https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 group-title="General",TV Mulhouse (1080p)
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 group-title="Religious",TV Muslim Thailand
@@ -17717,6 +17563,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 #EXTINF:-1 group-title="General",TV NOVA 12 (576p) [Not 24/7]
 http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 group-title="Czech Republic",TV Nova Ⓢ
+https://sktv.mxnticek.eu/new/stream.php?ch=Nova
 #EXTINF:-1 group-title="Legislative",TV NRSR (720p) [Not 24/7]
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="General",TV Oberfranken (1080p) [Not 24/7]
@@ -17757,6 +17605,8 @@ http://190.93.224.42/TV-PERU/index.m3u8
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 #EXTINF:-1 group-title="Music",TV Peruanisima (720p)
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+#EXTINF:-1 group-title="General",TV Petropolis (720p)
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",TV Pi Kanal (576p) [Not 24/7]
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 group-title="General",TV Pirveli
@@ -17787,6 +17637,8 @@ http://89.38.8.130:39419
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 group-title="Series",TV Series (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 group-title="General",TV Show Fortaleza (720p)
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 group-title="News",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 group-title="News",TV Sim Sao Mateus (720p)
@@ -17821,6 +17673,8 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
 #EXTINF:-1 group-title="Religious",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TV Universal Ecuador (720p)
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
 #EXTINF:-1 group-title="Education",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 group-title="Education",TV Usach (720p)
@@ -17977,6 +17831,8 @@ https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m
 https://www.youtube.com/tvcnewsnigeria/live
 #EXTINF:-1 group-title="General",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TVCa (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 group-title="Movies",TVCARiB Cinema (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 #EXTINF:-1 group-title="Religious",TVCARiB Gospel (480p) [Not 24/7]
@@ -17989,14 +17845,18 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 group-title="General",TVCOM Maceio (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TVE Bahia (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Spain",TVE Internacional Europe-Asia
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="Culture;Education",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 group-title="Series",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 #EXTINF:-1 group-title="Series",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:-1 group-title="General",TVenLinea (1080p)
-https://srt.tvdatta.com/tvenlinea/index.m3u8
+#EXTINF:-1 group-title="Religious",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 #EXTINF:-1 group-title="General",TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 group-title="Series",TVI Ficcao (720p)
@@ -18039,8 +17899,6 @@ https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Chile",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 group-title="Entertainment",tvN Asia HD (720p)
-http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 group-title="News",TVN24 (720p) [Not 24/7]
 https://edge.essastream.com/vozzmedia/index.m3u8
 #EXTINF:-1 group-title="General",TVNBN (720p)
@@ -18373,8 +18231,6 @@ https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 #EXTINF:-1 group-title="Series",Unga Mammor NO
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
-#EXTINF:-1 group-title="Education",UNIANDES TV (720p) [Not 24/7]
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 group-title="News",Unicanal
 http://45.170.130.224:8000/play/a04y/index.m3u8?hls
 #EXTINF:-1 group-title="Paraguay",Unicanal Ⓨ
@@ -18391,6 +18247,8 @@ https://edge.enhdtv.com/8192/index.m3u8
 http://190.197.41.183/Unimas/mono.m3u8
 #EXTINF:-1 group-title="Undefined",UniMas KUVN-DT
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
+#EXTINF:-1 group-title="Undefined",UniMas Mountain (1080p)
+http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Undefined",UniMas WAMI-DT (1080p)
 http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1 group-title="Undefined",UniMas WXTV-DT
@@ -18443,6 +18301,8 @@ https://jmp2.uk/stvp-US900001CX
 http://190.197.41.183/Univision/index.m3u8
 #EXTINF:-1 group-title="Undefined",Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 group-title="Undefined",Univision WLTV-DT (720p)
+http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Undefined",Unknown Russia (1080p)
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Unknown Russia HD (1080p)
@@ -18497,8 +18357,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1 group-title="Undefined",UTV (Czech Republic) (1080p)
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 group-title="Undefined",UTV (Iraq) (1080p)
-https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 #EXTINF:-1 group-title="General",UTV Africa (720p)
 https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General",UTV Palakkad (1080p)
@@ -18585,6 +18443,8 @@ https://nl.livekadeh.com/hls2/velayattv.m3u8
 https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Vendhar TV (576p)
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+#EXTINF:-1 group-title="General",Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
 #EXTINF:-1 group-title="General",Venevision Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 group-title="Music",Venus Media (1080p)
@@ -18763,6 +18623,8 @@ https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 https://amg01821-amg01821c25-xiaomi-international-4607.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Vijay Super (576p)
 http://51.75.127.199:3141/vijaysuper/index.m3u8
+#EXTINF:-1 group-title="Music",Vijay Takkar APAC (1080p)
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 group-title="Documentary",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Documentary",viju History (576p)
@@ -18909,8 +18771,6 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 group-title="General",Voyages and Saveur
 https://amg01821-amg01821c24-xiaomi-international-4603.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="General",VR Canal 21 Nasca (720p)
-https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 #EXTINF:-1 group-title="News",VR Live (720p)
 https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
 #EXTINF:-1 group-title="Undefined",VSiN (720p)
@@ -18961,8 +18821,6 @@ https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playl
 https://s5host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config6/v1/sem/e4268c24-9778-40ea-9cd9-63643de892b2.m3u8?adMethod=3&sessionId=waowlocalnow&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&device_devicetype=desktop_web&height=1080&ip_addr=185.217.168.164&ads.cdnhost=s5host3.localnow.api.cms.amdvids.com&ads.playbackid=49EDCA6F-4FD2-47FB-84BB-A3771C5FE9CE&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=49EDCA6F-4FD2-47FB-84BB-A3771C5FE9CE&ads.n4=content_name&ads.v4=EPG%20%7C%20WAOW%20Wausau%2C%20WI&ads.n21=app_bundle&ads.v21=&ads.n22=ip&ads.v22=185.217.168.164&ads.n23=gpp_sid&ads.v23=&ads.n24=channel_name&ads.v24=EPG%20%20WAOW%20Wausau%2C%20WI&ads.n25=content_type&ads.v25=channel&ads.n26=channel_brand_id&ads.v26=AMDB012920&ads.n27=ua&ads.v27=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n28=network_name&ads.v28=waowtv-wausau-wi&ads.n29=cust_devicename&ads.v29=desktop_web&ads.n30=channel_rating&ads.v30=TV-PG&ads.n31=app_store_url&ads.v31=&ads.n32=content_livestream&ads.v32=1&ads.n33=app_version&ads.v33=0.0.0&ads.n34=content_producer_name&ads.v34=Allen%20Media%20Broadcasting&ads.n35=device_make&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=url&ads.v37=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n38=app_name&ads.v38=&ads.n39=channel_company_id&ads.v39=AMDP500228&ads.n40=content_provider&ads.v40=waowtv-wausau-wi&ads.n41=content_custom_1_param&ads.v41=49EDCA6F-4FD2-47FB-84BB-A3771C5FE9CE&ads.n42=channel_ext_id&ads.v42=6334c3da31529483d30e91c2&ads.n43=us_privacy&ads.v43=1YNY&ads.n44=device_model&ads.v44=&ads.n45=gpp&ads.v45=&ads.n46=channel_genre&ads.v46=News&ads.n47=content_custom_2_param&ads.v47=AMDB012920&ads.n48=channel_language&ads.v48=en&ads.n49=did&ads.v49=&ads.n50=dnt&ads.v50=&ads.n51=channel_id&ads.v51=49EDCA6F-4FD2-47FB-84BB-A3771C5FE9CE&ads.n52=content_custom_3_param&ads.v52=channel&ads.n53=channel_title&ads.v53=EPG%20%20WAOW%20Wausau%2C%20WI&ads.n54=pos&ads.v54=midroll&ads.n55=channel_corp&ads.v55=Allen%20Media%20Broadcasting&ads.n56=device_type&ads.v56=&ads.n57=h&ads.v57=1080&ads.n58=ifa_type&ads.v58=
 #EXTINF:-1 group-title="Latino",WAPA+
 https://jmp2.uk/stvp-US41000060J
-#EXTINF:-1 group-title="General",WAPA-TV 4.1 (1080p) [Not 24/7]
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 #EXTINF:-1 group-title="Lifestyle",Wapp (720p)
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 group-title="General",Wasabi La Chaine Anime (FR) Geo
@@ -19817,6 +19675,8 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 group-title="General",Zinc Nombre TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="Music",Zing! (576p)
 http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 group-title="General",Zitata TV
@@ -19863,6 +19723,10 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 group-title="Czech Republic",Óčko Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",ČT :D
+https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
+#EXTINF:-1 group-title="Czech Republic",ČT sport Plus
+https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
 #EXTINF:-1 group-title="Russia",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Belarus",Беларусь 1
